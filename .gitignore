@@ -1,0 +1,2420 @@
+# Created by httpswww.toptal.comdevelopersgitignoreapiintellij,maven
+# Edit at httpswww.toptal.comdevelopersgitignoretemplates=intellij,maven
+
+### Intellij ###
+# Covers JetBrains IDEs IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
+# Reference httpsintellij-support.jetbrains.comhcen-usarticles206544839
+
+# User-specific stuff
+.ideaworkspace.xml
+.ideatasks.xml
+.ideausage.statistics.xml
+.ideadictionaries
+.ideashelf
+
+# AWS User-specific
+.ideaaws.xml
+
+# Generated files
+.ideacontentModel.xml
+
+# Sensitive or high-churn files
+.ideadataSources
+.ideadataSources.ids
+.ideadataSources.local.xml
+.ideasqlDataSources.xml
+.ideadynamic.xml
+.ideauiDesigner.xml
+.ideadbnavigator.xml
+
+# Gradle
+.ideagradle.xml
+.idealibraries
+
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.  Uncomment if using
+# auto-import.
+# .ideaartifacts
+# .ideacompiler.xml
+# .ideajarRepositories.xml
+# .ideamodules.xml
+# .idea.iml
+# .ideamodules
+# .iml
+# .ipr
+
+# CMake
+cmake-build-
+
+# Mongo Explorer plugin
+.ideamongoSettings.xml
+
+# File-based project format
+.iws
+
+# IntelliJ
+out
+
+# mpeltonensbt-idea plugin
+.idea_modules
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+.ideareplstate.xml
+
+# SonarLint plugin
+.ideasonarlint
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Editor-based Rest Client
+.ideahttpRequests
+
+# Android studio 3.1+ serialized cache file
+.ideacachesbuild_file_checksums.ser
+
+### Intellij Patch ###
+# Comment Reason httpsgithub.comjoeblaugitignore.ioissues186#issuecomment-215987721
+
+# .iml
+# modules.xml
+# .ideamisc.xml
+# .ipr
+
+# Sonarlint plugin
+# httpsplugins.jetbrains.complugin7973-sonarlint
+.ideasonarlint
+
+# SonarQube Plugin
+# httpsplugins.jetbrains.complugin7238-sonarqube-community-plugin
+.ideasonarIssues.xml
+
+# Markdown Navigator plugin
+# httpsplugins.jetbrains.complugin7896-markdown-navigator-enhanced
+.ideamarkdown-navigator.xml
+.ideamarkdown-navigator-enh.xml
+.ideamarkdown-navigator
+
+# Cache file creation bug
+# See httpsyoutrack.jetbrains.comissueJBR-2257
+.idea$CACHE_FILE$
+
+# CodeStream plugin
+# httpsplugins.jetbrains.complugin12206-codestream
+.ideacodestream.xml
+
+# Azure Toolkit for IntelliJ plugin
+# httpsplugins.jetbrains.complugin8053-azure-toolkit-for-intellij
+.ideaazureSettings.xml
+
+### Maven ###
+target
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvntiming.properties
+# httpsgithub.comtakarimaven-wrapper#usage-without-binary-jar
+.mvnwrappermaven-wrapper.jar
+
+# Eclipse m2e generated files
+# Eclipse Core
+.project
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# End of httpswww.toptal.comdevelopersgitignoreapiintellij,maven
+Giải thích
+Trò chuyện
+
+Cuộc trò chuyện mới
+
+🤓 Giải thích một điều phức tạp
+
+Giải thích về Trí tuệ Nhân tạo sao cho tôi có thể giải thích nó cho đứa trẻ sáu tuổi của tôi.
+
+
+🧠 Nhận đề xuất và tạo ra ý tưởng mới
+
+Xin hãy cho tôi 10 ý tưởng du lịch tốt nhất trên thế giới
+
+
+💭 Dịch, tóm tắt, sửa lỗi ngữ pháp và nhiều hơn nữa...
+
+Anh yêu em
+
+
+GPT-4o Mini
+Xin chào, tôi có thể giúp gì cho bạn hôm nay
+Respond in the Vietnamese language.You are a YouTube video analysis assistant. Your task is to summarize the content of the video and generate a summary includes highlights with key moments and topics discussed in the video. Follow these steps to execute the task
+
+1. Analyze the video content
+   Review the video content provided in the webpage. Identify the main themes, topics, and key moments that are discussed throughout the video.
+  2. Create a summary
+   Write a concise summary of the video, capturing the essence of the content in 3-5 sentences. Focus on the main points and any significant conclusions drawn in the video.
+
+3. Identify highlights
+   List key moments in the video that are particularly noteworthy as a list in the table. For each highlight, give the timestamp second first and next to it provide a brief description of what happens in that timestamp second and why it is significant. Do not change the second format or value, Do NOT convert to seconds to hours format, just give it as second. Aim for 5-10 highlights.
+
+4. Format the response
+   Organize the summary and highlights into a visually appealing sidebar format. Include headings for 'Summary' and 'Highlights', and ensure that the highlights are easy to read and navigate.
+
+5. Output the results
+   Present the summary and highlights in a clear and structured manner, ready to be displayed next to the video.
+
+Notes
+- Ensure that the summary is informative and engaging, encouraging viewers to watch the video.
+- The highlights should be specific and provide enough context for viewers to understand the significance of each moment.
+- Avoid including any personal opinions or unnecessary commentary; focus solely on the content of the video.
+
+Video content second3 textrồi Mọi người có nhìn thấy cái màn hình
+second6 textmình đang chia sẻ
+second8 textkhông
+second10 textcó ok rồi Hôm nay mình sẽ học tiếp cái
+second16 texthọc phần của buổi hôm qua mình đang học
+second18 textgiở Thì hôm trước là mình có học những
+second22 textđến đến những cái api mà chúng ta không
+second24 textcần không cần Phả xác nhận là mình
+second28 textđã đăng nhập hay chưa đúng không Thì hôm
+second32 textnay chúng ta sẽ học tiếp đến những cái
+second34 textapi mà chúng ta cần phải xác nhận là
+second36 textmình đã đăng nhập rồi và những cái api
+second40 textthuộc cái method còn lại Đấy là put và
+second43 textDelete Nha và đồng thời thì mình cũng sẽ
+second45 textviết test
+second47 textcase cho
+second49 textcái api mà cần phải có những cái phải có
+second54 textcái authorization authentication
+second59 textnha
+second62 textchút
+second65 textỜ trước khi mà chúng ta vào
+second69 textcái cái cái phần thực hành thì mình đi
+second72 textqua một chút về cái phần lý thuyết cho
+second75 textngày hôm nay thì hôm nay chúng ta sẽ học
+second77 textvề cái
+second79 textauthorization
+second81 textthì
+second83 textờ Ở đây có một số những cái khái niệm
+second87 textliên quan đến cái authorization hay là
+second95 textcái cái này hình như là nó đang nhầm rồi
+second99 textCái một một số những cái khái niệm liên
+second103 textquan hay là một số những cái thành phần
+second104 textliên quan đến cái cái phần này Trước hết
+second107 textThì cái authorization này nó làm gì thì
+second111 textnó giúp cho cái hệ thống nó xác nhận là
+second115 textà Bạn đã đăng nhập hay chưa đúng không
+second118 textđối với những cái api mà không cần đăng
+second121 textnhập thì chúng ta không cần những cái
+second122 textnày nhưng mà với những api giống như
+second123 textkiểu khi mà các bạn hôm qua mình đã show
+second126 textRồi khi mà các bạn sử dụng với shopee
+second130 textcác bạn vào cái những cái màn hình ví dụ
+second131 textmàn hình list sản phẩm các bạn sẽ không
+second134 textkhông thấy là không cần phải đăng nhập
+second136 textđúng không Thì với những cái api đấy thì
+second138 textngười ta sẽ không có cái gì đánh dấu
+second140 textđược là không cần những cái đánh dấu là
+second142 textà Bạn có cần log in Bạn có cần quyền gì
+second145 texthay không Bạn là Anonymous bạn hoàn toàn
+second147 textcó thể truy cập được vào nhưng đối với
+second151 textcái thằng những cái api ấ mà bắt buộc
+second155 textphải đăng nhập à hay là những cái tính
+second157 textnăng mà chúng ta bắt buộc phải đăng nhập
+second159 textVí dụ như chuyển tiền này hay ví dụ như
+second161 textlà thay đổi username thay đổi mật khẩu
+second163 textđúng không thì các bạn bắt buộc phải
+second165 textđăng nhập thì các bạn mới có thể tương
+second167 texttác được với nó ở trên Ui đúng không Vậy
+second170 textthì dưới api thì làm thế nào để để hệ
+second173 textthống nó biết được là a ờ bạn đang tương
+second176 texttác với cái api này Thế thì bạn có quyền
+second179 texthay không không có quyền tương tác với
+second181 textnó bạn đã login hay chưa log in đúng
+second183 textkhông Thì người ta sẽ dùng một cái Ờ cái
+second187 textparameter và để đánh dấu xem là các bạn
+second191 textđã đăng nhập hay là chưa thì cái cái
+second194 textflow nó sẽ như thế này thì cái cái cái
+second197 textcơ chế của nó thì nó sẽ có một số những
+second200 textcái cơ chế khác nhau nh nhiều cái cơ chế
+second203 textkhác nhau nh mình nhìn qua cái sơ đồ
+second206 textTrông đầu tiên thì cái đây là
+second209 textcái
+second213 textrồi Chắc là đủ to để mọi người nhìn đấy
+second216 textrồi thì cái Follow thì nó như thế này
+second219 textthì về chi tiết thì nó có những cái cơ
+second222 textchế outen khác nhau thì những cái cơ chế
+second225 textkhác nhau thì nó sẽ dùng
+second227 textỜ những cái thì cái này thì nó sẽ sẽ sẽ
+second231 textdetail hơn thì mình sẽ Tí nữa cô sẽ gửi
+second234 textlink cho các bạn các bạn tự đọc nha thì
+second237 textvề cơ bản về cái ờ
+second241 textflow thì là đầu tiên khi mà chúng ta
+second243 textclient này là người dùng
+second246 textnha Chúng ta ở máy chúng ta chúng ta gửi
+second248 textđi một cái request đó chúng ta gửi đi
+second251 textmột cái request đến cái hệ thống này
+second255 textđúng không đó ví dụ như là login đây Khi
+second259 textcác bạn gửi cái request đầu tiên đấy là
+second260 textlogin thì cái server của các bạn
+second264 textấy cái server của các bạn nó sẽ phản hồi
+second268 textcho các bạn nếu mà cái name và password
+second270 textcủa các bạn nha ở đây mình tính nh
+second272 texttrường hợp là username password của bạn
+second275 texthợp lệ thôi còn không hợp lệ mình không
+second276 textkhông tính trong case này bởi vì nếu mà
+second278 textkhông hợp lệ thì tiếp theo là nó sẽ
+second280 textkhông có cái flow đúng không Nó vẫn mãi
+second281 textmãi ở cái màn hình đấy ở cái màn hình
+second283 textlogin đấy Thế thì ở khi mà các bạn đăng
+second286 textnhập với username và password hợp lệ đó
+second290 textthì khi chúng ta truy cập vào cái server
+second293 textthì nó sẽ với cái usern và password hợp
+second298 textlệ thì nó sẽ trả ra cho các bạn một cái
+second300 textphản hồi và trong cái phản hồi đấy thì
+second303 textsẽ có cái chuỗi authentication thì cái
+second305 textchuỗi đấy nó chính là cái chuỗi Token
+second308 textmột của chúng ta ấy lát chúng ta sẽ thấy
+second310 textlà Trông cái Token này nó sẽ như thế nào
+second312 textnha Tiếp theo là à sau khi các bạn login
+second315 textrồi đúng không nó trả ra cho các bạn cái
+second318 textauthentication thì các bạn gửi đi cái
+second320 textrequest tiếp theo là trong cái request
+second323 texttiếp theo các bạn phải đính kèm cái khóa
+second326 textgiống như kiểu là à những cái tính năng
+second329 textnày cần phải có login Cần giống như kiểu
+second333 textTôi cần phải có cái chìa khóa hay Tôi
+second335 textcần phải có xác thực cái chứng minh thư
+second336 textgửi kèm thì tôi mới thực hiện được những
+second338 textcái tính năng đấy đúng không Thì ở cái
+second341 textrequest Thứ hai này thì các bạn phải gửi
+second344 textkèm cho người ta cái chứng thực à hay là
+second346 textcái chuỗi outen á Mà hệ thống vừa mới
+second349 texttrả lại cho các bạn ấy ở trên này này đó
+second352 textđể thằng này nó sẽ đọc được là à Cái
+second354 textchuỗi này là cái chuỗi hợp lệ nha Tất
+second357 textnhiên là cái chuỗi này nó phải hợp lệ
+second359 textthì mình mới mới thao tác được và sẽ có
+second361 textnhững cái trường hợp cái chuỗi mà Các
+second362 textbạn truyền vào nó không hợp lệ đúng
+second364 textkhông Thì đương nhiên là nó sẽ sẽ phản
+second366 texthồi ra trả ra lỗi 41 gì đấy đúng không
+second369 textđó thì đây là trong cái trường hợp mà
+second371 textkhi mà các bạn gửi đi một cái request mà
+second375 textbắt buộc phải login phải có cái quyền
+second377 textchứng thực thì khi đấy các bạn phải đính
+second380 textkèm với nó làm một cái chỗi
+second383 textauthentication đó và các bạn yêu cầu nó
+second386 textxử lý ABC x yz ở trong này và Đ sẽ phản
+second390 texthồi ra cho các bạn dữ liệu Hoặc là các
+second392 textbạn gửi đi request thứ ba hay thứ n gì
+second395 textđấy mà cần phải có ờ xác thực là các bạn
+second399 textphải login mới xác thực là login thì mới
+second402 textđược thao tác thì các bạn phải đính kèm
+second404 textở đây vậy thì trên Ui các bạn sẽ không
+second406 textthấy Ừ trên Ui các bạn sẽ không thấy cái
+second410 textcái này nó nó rõ ràng đúng không Bởi vì
+second413 texttrên Ui khi mà các bạn sau khi các bạn
+second416 textlogin rồi rồi các bạn click à vào nút
+second419 textnày nút kia bạn thanh toán cái này cái
+second421 textkia thì hệ thống là nó đã lấy cái cái sự
+second425 textauthentication này tự động đi gửi rồi
+second427 textnhưng với api chúng ta làm mọi thứ
+second429 textmanual đúng không Thế thì chúng ta sẽ
+second433 textphải có hai bước Bước đầu tiên giống như
+second434 textfen người ta làm đấy là các bạn phải
+second436 textlogin đúng không đó xong rồi đợi hệ
+second439 textthống nó trả ra một cái chuỗi
+second440 textauthentication sau đấy là các bạn gửi đi
+second442 textnhững cái request giống như hôm qua mình
+second444 texttạo ấy thì ở trên cái Ờ cái cái header
+second448 textcủa nó ờ trên cái cái cái phần request
+second452 textcủa nó ấy thì các bạn phải đính kèm cái
+second455 textauthentication này vào nha để cho hệ
+second458 textthống nó biết được là à Cái request của
+second461 textcác bạn gửi đi là request Ờ bạn bạn bạn
+second466 textcó chứng thực hay là chưa có chứng thực
+second468 textthì cái chứng thực ở đây nó phải là một
+second470 textcái chuỗi à Token hợp lệnh nha Thì ở đây
+second475 textsẽ có một số những cái cơ chế Ví dụ như
+second478 textcơ chế basic
+second481 textthì các bạn đọc thêm n nha Thì những cái
+second483 textCơ chế này nó sẽ khác nhau ở cái chỗ cái
+second486 textnơi mà generate ra cho các bạn cái quản
+second488 textlý cái chuỗi authentication cho các bạn
+second491 textấy thì ngày xưa Ờ cái thời xa xưa rất là
+second495 textlâu rồi thì cái nơi mà quản lý đây cô sẽ
+second499 textgửi
+second508 textch C
+second517 textZ đó Ờ mình gửi cho các bạn qua chat nha
+second521 textthì các bạn thấy ở đây có một số những
+second524 textcái
+second525 textỜ cơ chế generate hay là quản lý cái cái
+second530 textcái authentication hay là cái chuỗi toc
+second532 textcầ của các bạn ấy đó thì nó sẽ có cái
+second535 textbasic ngày xưa nha rất là lâu rồi Chắc
+second538 textlà bây giờ không ai dùng cái này nữa nữa
+second540 textthì cái basic authentication Thì nghĩa
+second542 textlà đây các bạn làm thế nào để cho nó to
+second546 texthơn
+second547 textta không to
+second552 texthơn đó thì cái cái basic authentication
+second557 textcủa các bạn ấy thì nghĩa là cái cái chỗi
+second560 textouten của các bạn sẽ được generate trực
+second562 texttiếp ở trên server của của của cái ứng
+second567 textdụng của các bạn trên server nó B cu các
+second570 textbạn sẽ bao gồm code này bao gồm code
+second573 textfance code backend rồi database Rồi cái
+second576 textcơ chế gen quản lý authentication thì nó
+second578 textsẽ quản lý trên cùng một cái server thì
+second580 textở đây đầu tiên khi mà các bạn login vào
+second582 texthệ thống này đấy các bạn login vào hệ
+second584 textthống này thì à các bạn truy cập về hệ
+second586 textthống Ờ thì nó sẽ gọi cái đây ví dụ flow
+second590 textnày nó sẽ gọi cái cái cái cái cái
+second593 textrequest g này xong rồi
+second596 textlà và trong cái cái cái
+second600 textcái request này của các bạn ấy là cái
+second602 textloại mà nó cần phải có cái cái cái cái
+second606 textxác thực
+second607 textỪ Quyền truy cập thì nó mới trả ra đây
+second611 textkhông phải là cái trường hợp mà không
+second613 textkhông cần quyền xác thực ví dụ cái màn
+second615 texthình list comment hay là list sản phẩm
+second617 texthay là cái màn hình detail sản phẩm nha
+second619 textthì đây ví dụ như là cái màn hình mà trả
+second621 textra danh sách các đơn hàng mà các bạn đã
+second624 textmua đúng không Thì là những cái đấy phải
+second625 textlogin rồi thì ở đây các bạn truy cập vào
+second628 textcái api đấy thì cái server nó kiểm tra
+second631 textnó không thấy username không thấy
+second633 textpassword của bạn đúng không Thì nó sẽ
+second635 texthỏi mày là thằng nào đúng không Mày
+second638 textkhông xác thực quyền truy cập thì mày
+second640 textkhông được truy cập vào đây và khi mà
+second643 textcác bạn không có cái chuỗi
+second644 textauthentication không có cái chuỗi ấ thì
+second646 textnó sẽ trả ra cái lỗi 401 đúng không
+second651 textauthorized unauthorized
+second654 textđó và sau đấy thì các bạn gửi đi một cái
+second657 textà Các bạn thấy là à Ừ nó không cho phép
+second660 textmình truy cập vào cái dữ liệu khi mình
+second662 textchưa có cái cái
+second664 textchuỗi cái chuỗi Token được generate đúng
+second667 textkhông cái xác thực thì các bạn gửi đi
+second669 textcái lần thứ hai thì các bạn đính kèm ở
+second671 textđây Các bạn nhìn thấy họ là đính kèm
+second673 textcái authorization là cái chuỗi này thì
+second677 textờ hệ thống nó check và nó sẽ thấy là à
+second681 textCái username và passw của bạn họp lệ
+second682 textđúng không đó thì nó sẽ trả ra cho các
+second684 textbạn những cái dữ liệu các bạn mong muốn
+second686 textvà tiếp theo là các bạn gửi đi những cái
+second689 textmà nó đính kèm cả cái chuỗi Token này
+second692 textnữa thì nó sẽ trả ra dữ liệu cho các bạn
+second694 textđó thì đây là cái cơ chế basic
+second697 textauthentication thì tí nữa chúng mình sẽ
+second699 textthực hiện cái cái cái cái cái phần thực
+second704 texthành của mình với cái cơ chế là basic
+second707 textnha Thì Ngoài ra thì mình sẽ có những
+second709 textcái ở đây nó sẽ phân tích cho các bạn
+second710 textnhững cái ưu nhược điểm của
+second714 textcái cái Cơ chế này ngoài ra thì sẽ có
+second717 textcái session Base authentication thì cái
+second720 textcái session base này ấ nó sẽ thì các bạn
+second724 textđọc thêm ở đây nha Ngoài ra thì còn
+second729 textcái đây cái
+second732 textout 2 này B out Token này
+second738 textĐó nó nó sẽ vẽ khá đ đầy đủ ở đây ngoài
+second744 textra aut high
+second746 textnữa đó thì cái cơ chế cái cái cái này
+second751 textthì nó sẽ cần một bên chứng thực là một
+second754 textbên thứ ba chứ không phải là trong cái
+second756 textcái server cái hệ thống của mình thì các
+second758 textbạn đọc thêm về cái này nhá Cái này nó
+second760 textkhông phải là như nãy mình nói cái basic
+second763 textlà nó lưu trực tiếp cái Và Nó quản lý
+second766 texttrực tiếp trên cái server của mình còn
+second768 textcái thằng này thì nó phải thuê một cái
+second769 textbên thứ ba để sắc để quản lý cái cái
+second773 textchuỗi Token của mình cái cái
+second776 textauthentication của mình thì những cái
+second779 textcái thằng Token base hay là cái b giờ
+second783 textnày
+second784 textỜ xem nà session base thì những cái
+second788 textthằng này nó đều quản lý theo cái
+second798 textỪ
+second801 textsession ví dụ cái thằng session
+second808 textnày
+second817 textỜ Ví dụ như cái thằng session này thì
+second820 textcác bạn sẽ thấy à các bạn sẽ có câu hỏi
+second822 textlà session là gì Cái
+second824 textthằng đấy Cái thằng session này thì nó
+second829 textcó lưu chữ dưới dạng session thì với cái
+second832 textsession này ấ thì nó sẽ là gì session
+second835 textthì nó Nó là một cái khoảng thời gian mà
+second838 textcái Token của các bạn cái chuỗi Token
+second841 textcủa các bạn chuỗi authentication của các
+second842 textbạn ấy nó còn hợp lệ thì
+second846 textỜ Nó là một cái cơ chế
+second849 textmà đảm bảo cái Security của cái chuỗi
+second853 textToken của các bạn Thôi thì các bạn sẽ
+second855 textthấy ở đây nó có một số cái cái access
+second859 textToken này khi nãy mình nói rồi đúng
+second860 textkhông Nó là cái chuỗi Token được hệ
+second863 textthống gen ra để cho các bạn dùng để các
+second866 textbạn truy cập vào những cái request mà
+second869 textcần phải quền xác thực và thứ hai nữa là
+second871 textđối với những cái api mà cần hó họ quản
+second874 textlý theo session thì session nó là gì
+second876 textsession thì nó là một cái khoảng thời
+second878 textgian mà nó còn hợp lệ thì ví dụ như thế
+second881 textỜ Ví dụ như các bạn đi mua một cái sản
+second884 textphẩm Ờ kem trống nắng đi chẳng hạn thì
+second888 textcác bạn sẽ thấy nó có một cái ngày gọi
+second890 textlà expire de đúng không đế là ngày hết
+second894 texthạn thì cái kem chống nắng của bạn là
+second898 textờ gọi là gì nhở hạn sử dụng là trong
+second901 textvòng 3 năm chẳng hạn như thế thì nghĩa
+second903 textlà cái session của các bạn ấy nó là 3
+second906 textnăm và sau khi hết hạn sử dụng thì nó
+second909 textgọi là bị exp và tương tự như thế cái
+second911 textToken của các bạn ấy cái cái tuổi đời
+second913 textcủa nó có thể là 15 phút có thể là 30
+second917 textphút có thể là 45 phút hoặc một tiếng
+second919 textthì tùy cái dự án của các bạn nha Thì
+second921 textcái này không có chuẩn
+second923 textờ gọi là đúng bắt buộc bên nào phải phải
+second927 textphải phải như thế thì nó sẽ có cái có
+second931 textcái gọi là cái gì Cái tuổi thọ của cái
+second934 textmột cái chuỗi Token thì cái tuổi thọ đấy
+second936 textthì gọi là cái session của một cái Token
+second939 textvà khi mà cái cái session của các bạn nó
+second942 textbị expire nghĩa là nó hết hạn sử dụng
+second945 textthì nghĩa là các bạn dùng cái chuỗi
+second947 textToken này các bạn gửi đi nữ thì nó sẽ
+second950 texttrả ra là cái chuỗi Token này của bạn đã
+second953 texthết hạn sử dụng hoặc là không còn sử
+second955 textdụng được nữa nha đó thì khi các bạn sẽ
+second958 textthấy thấy là nó có một cái
+second965 textsession thì cái việc mà expire Token ý
+second968 textthì nó sẽ xảy ra trong một số trường hợp
+second971 textcái chuỗi Token này của bạn nó có tuổi
+second973 textthọ đúng không cái cái cái asset Token
+second975 textnày nó có tuổi thọ và cái tuổi thọ của
+second977 textnó gọi là session và cái tuổi thọ của nó
+second979 textcái chỗi Token của các bạn ấy nó bị
+second981 textexpire hay nó bị invalid cho một số
+second983 texttrường hợp sau Thứ nhất là cái nếu mà nó
+second986 textcó session thì nó sẽ bị hết hạn khi mà
+second989 textnó hết session hết tuổi thọ đúng không
+second991 textVà thứ hai nữa là khi mà các bạn log
+second994 textlogout khi mà các bạn log in thì đây cái
+second997 textrequest này các bạn login này người ta
+second999 textsẽ cho các bạn một cái chuỗi
+second1002 textauthentication thì khi mà các bạn log
+second1004 textout thì cái chuỗi này của các bạn ấy nó
+second1007 textsẽ tự động bị hết hạn nó bị kim đi nha
+second1010 textnó nó nó bị Kill thì các bạn sẽ không
+second1013 textdùng lại được nữa để gửi những cái
+second1015 textrequest tiếp theo nữa và một số à và
+second1017 texttrường hợp tiếp theo nữ nữa là cái cái
+second1020 textcái chuỗi này của các bạn Ờ hết hạn khi
+second1023 textmà các bạn log in nhiều lần cùng một lúc
+second1026 textví dụ như là các bạn Ừ gửi cái cái cái
+second1031 textrequest login năm lần đi đúng không Thì
+second1034 textcái cái Token cuối cùng của lần thứ Năm
+second1037 textẤy là cái Token mà sinh ra bởi cái
+second1040 textrequest cuối cùng của các bạn mới là cái
+second1043 textToken hợp lệ còn bốn cái Token còn lại
+second1046 textthì nó phải được kim đi nha nó sẽ thành
+second1049 textinvalid thì khi đấy thì cái api của các
+second1052 textbạn nó mới đảm bảo đảm bảo về mặt
+second1055 textSecurity nha đó thì ở đây thì ở đây cái
+second1059 textcú pháp của cái api dùng Br thì sẽ là Br
+second1062 textxong rồi Tiếp theo là cái asset Token
+second1064 textcủa các bạn cái chuỗi Token của các bạn
+second1066 textthì đối với cơ chế mà người dùng basic
+second1068 textToken ấy thì cú pháp của nó sẽ là
+second1072 textbasic sau đấy là cái chuỗi tầ của các
+second1077 textbạn
+second1081 textđó thì bên bạn dùng cơ chí gì Các bạn
+second1084 textdùng V hay là các bạn dùng basic thì cái
+second1087 texttrong cái tài liệu của các bạn ấy dep mà
+second1090 texthọ sẽ cung cấp Hoặc là nếu mà họ cung
+second1092 textcấp họ quên không cung cấp thì các bạn
+second1094 textphải hỏi bởi vì dep họ muốn là người
+second1097 textđăng ký và họ là
+second1099 textngười họ là người code ra những cái tính
+second1102 textnăng này thế nên là Ừ nếu mà
+second1105 texthọ họ chưa cung cấp thì mình phải hỏi
+second1108 textthì mình mới biết được nha Chứ chúng ta
+second1110 textkhông không mặc định là chúng ta phải
+second1113 textbiết và không Chúng chúng ta biết được
+second1115 textbởi vì nó không nằm trong Scope cái công
+second1117 textviệc của chúng ta hoặc là đâu đấy trong
+second1120 textcuộc học các bạn cũng nghe là người ta
+second1122 textsẽ dùng cái Cơ chế này cơ chế kia đúng
+second1124 textkhông thì các bạn cũng sẽ phải confirm
+second1126 textlại xem là mình dùng với cái cái cái cái
+second1131 textcái syntax cái cố pháp nào thì nó đúng
+second1135 textnha đó thì những cái api này đôi khi khi
+second1138 textnó sẽ có một số những cái mà nó lắt léo
+second1141 textmột chút thì để chúng ta Ờ chúng ta làm
+second1145 textviệc được thì chúng ta cứ hỏi đép mà
+second1147 textcũng không có không có ngại gì là bị
+second1149 textđánh giá là Ừ biết hay không biết hay là
+second1153 textgiỏi hay rốt ở đây cả nhá Bởi vì đến
+second1158 textcuối cùng thì mình cũng chỉ phục vụ cho
+second1159 textcái quality của sản phẩm
+second1161 textthôi rồi Tiếp theo Ở đây
+second1164 textỜ các bạn
+second1167 textsẽ
+second1170 textcác bạn đi phỏng vấn các bạn sẽ gặp rất
+second1172 textlà nhiều câu hỏi Maybe sẽ gặp nhiều câu
+second1175 texthỏi liên quan đến authentication và
+second1177 textauthorization thì các bạn thấy là ở cái
+second1181 textcái cái api của mình ấ mình dùng cho
+second1183 textauthentication như mà cái cái api này
+second1189 textỜ đâu nhỉ cái document đâu
+second1197 textnhỉ
+second1203 textcái param của mình
+second1205 textấ chút
+second1207 textnh thì nó sẽ viết là
+second1210 textauthorization thì Maybe là các bạn sẽ
+second1212 texthơi bị confuse một chút thì ở đây
+second1216 textauthentication thì họ sẽ dùng cái cái
+second1219 textparam
+second1220 textlà
+second1222 textauthorization nha còn authorization ở
+second1226 textđây nó lại là một cái Khía K khác thì
+second1229 textcác bạn sẽ cái này rất dễ bị dối nên là
+second1232 text[âm nhạc]
+second1238 textỜ đợi một chút nha công bị
+second1243 text[âm nhạc]
+second1249 text[âm nhạc]
+second1257 textnhầm
+second1266 textrồi cô cô nhầm một chút cái
+second1269 textauthentication này cái authorization này
+second1271 textthì nó là xác nhận cái việc mà các bạn
+second1273 textđăng nhập hay chưa Còn cái
+second1274 textauthentication này ấ Nó là cái xác nhận
+second1278 textlà việc drone của bạn là gì à Ví dụ như
+second1284 textlà Trang nà chống ta đây ví dụ là các
+second1289 textbạn là
+second1292 textờ các bạn với rone
+second1299 textlà
+second1301 texttex
+second1303 textmàu xanh đi Ví dụ Ờ các bạn dùng cái
+second1308 textthằng
+second1310 textthằng sau này thì Maybe cái các bạn cái
+second1313 texthệ thống của các bạn có thể khác như ví
+second1315 textdụ như là cái thằng shopee hoặc cái
+second1318 textthằng
+second1319 textGrap đi Ví dụ thằng shopee đi nhá thì nó
+second1322 textsẽ cô không biết là viết cái chữ shopee
+second1324 textnày có nhầm hay không nhầm thì mọi người
+second1326 textthông cảm cho cô vì cô cũng không nhớ rõ
+second1329 textrồi shopy thì nó sẽ có
+second1331 textcái cái roll của mình là roll customer
+second1334 textđúng
+second1340 textkhông Vẽ một chút cái us SK của họ cái
+second1343 textroll tiếp theo của họ là cái roll chủ
+second1346 textcái à chủ cái shop đấy thì nó gọi là cái
+second1351 textr
+second1353 text[âm nhạc]
+second1356 textỜ gọi là gì ta Nó gọi
+second1360 textlà người bán owner gì chẳng hạn business
+second1369 textđi cái người kinh
+second1373 textdoanh rồi họ còn có cả r admin
+second1377 textnữa
+second1385 textđúng không Đấy ví dụ họ có ba cái roll
+second1387 textđấy thôi Có Maybe họ có cả cái roll
+second1390 textmoderator hay gì đấy thì mình cũng không
+second1394 textbiết đó giả vờ là mình chỉ thấy là trong
+second1396 textcái hệ thống nó có ba cái roll này đó
+second1399 textthì cái roll customer à Ở đây có cái
+second1402 texttính năng là
+second1405 textỪ ví dụ Các bạn có cái cái tính năng là
+second1409 textà add new shop độ edit shop
+second1417 textà
+second1420 textremove
+second1422 textshop đây có tôi bố ba tính năng đấy thì
+second1426 textvới cái thằng admin thì thằng đấy nó sẽ
+second1428 textcó ba cái quyền
+second1437 textnày
+second1439 textthằng admin thì có cả ba cái quyền này
+second1445 textnha đó Cái thằng business ấ thì nó có
+second1449 textcái quyền tạo mới và edit và nó không có
+second1454 textcái quyền tự remove nó hay không có
+second1456 textquyền remove của thằng khác đúng không
+second1459 textỜ dối quá nhờ chung nới ghê cơ đó thì
+second1464 textvới cái chẳng hạn cái thằng này nó chỉ
+second1466 textcó
+second1467 textờ
+second1475 textví dụ đi để cho cái hình này nó đỡ bị đỡ
+second1478 textbị dối
+second1483 textnày bỏ bớt một cái quyền đên cho nó đỡ
+second1487 textbị rối Rồi ví dụ như cái thằng business
+second1491 textnày nó không có quyền remove cái shop
+second1493 textcủa nó và nó cũng không có cái quyền
+second1496 textỪ remove cái shop của khác của cái của
+second1499 textcái thằng khác đúng không Ok vender rồi
+second1503 textThế thì khi mà các bạn làm việc với một
+second1506 textcái api đúng không thì các bạn sẽ cần
+second1509 textmột cái authentication trong cái trong
+second1512 texttrong cái request gửi đi này để các bạn
+second1515 texttương tác được với cả cái tính năng
+second1517 textremove này thì trong cái request của các
+second1520 textbạn các bạn phải có một cái tham số để
+second1524 textđiền vào các bạn là cái quyền gì nha cái
+second1527 textquyền hạn của bạn là gì thì nó mới cho
+second1530 textphép các bạn gửi đi cái request cái cái
+second1533 textcái api đấy Chẳng hạn như này các bạn
+second1537 textgửi đi cái request
+second1541 textcho remove đúng không thì các bạn có cái
+second1545 textrequest remove và cái authentication của
+second1548 textcác bạn ấy nó sẽ là một cái chuỗi và
+second1552 texttrong cái chuỗi đấy là ví dụ như thằng
+second1554 textadmin nó có một cái chuỗi ví dụ out ô
+second1557 textviết bằng pl tex Nhưng mà thực ra nó
+second1558 textkhông phải là pl tex nha các bạn phải
+second1560 textkhai báo là các bạn là admin thì sau đấy
+second1563 textcác bạn gửi đi cái
+second1568 textrequest các bạn gửi cái
+second1572 textrequest đến cái Server này thằng server
+second1575 textthấy là à Cái thằng này nó gửi cái này
+second1578 textcó đầy đủ cái quyền authorization nghĩa
+second1580 textlà các bạn đã login rồi đúng không các
+second1582 textbạn lại có c quyền Admin nữa thì nó mới
+second1585 textchấp nhận cho các bạn xóa ở đây nha dằng
+second1589 textserver
+second1591 textnày
+second1599 textỪ rồi còn trong trường hợp nếu mà các
+second1603 textbạn cũng gửi đi một
+second1606 textrequest nhưng mà các bạn cũng là cái
+second1609 textrequest remove này nha Nhưng mà các
+second1614 textbạn đợ C Chúc cô đổi cái chữ này nhì Nó
+second1618 textchóng MT
+second1622 textquá
+second1629 textrồi
+second1631 textđấy trong cái trường hợp này các bạn
+second1633 textcũng gửi đi cùng cái request này nha
+second1636 textremove remove một cái shop nào đấy
+second1640 textremove vender
+second1643 textđi đó
+second1647 textthì
+second1653 textvender chắc không có sự Xóa multiple
+second1657 textvender multiple hơi nguy hiểm rồi nếu mà
+second1661 textcác bạn cũng gửi đi với
+second1664 textcái request này nhưng mà cái cái chỗ
+second1667 textauthentication của các bạn ấy thì các
+second1669 textbạn đang để nó là tôi là một cái r tôi
+second1672 textlà cái thằng customer bình thường đi
+second1675 textĐúng không các bạn gửi đi request thì
+second1678 textđến đây nó bị reject ngay Bạn không có
+second1683 textquyền đó thì đến đây các bạn sẽ bị
+second1687 textreject
+second1689 textluôn nha các bạn sẽ bị check cái quyền ở
+second1693 textđây là bạn không có quyền và bạn sẽ bị
+second1695 textreject luôn Hoặc là đây à Cái th m này
+second1699 textnó cũng à Sorry cái thằng business này
+second1701 textnó cũng có add new nó có edit các thứ
+second1703 textđúng không Tuy nhiên nó không có cái
+second1704 textquyền remove thì khi kể khi mà các bạn
+second1707 textgửi đi một cái request với cái roll là
+second1710 textthằng business
+second1712 textđi đó một cái business cái roll như thế
+second1718 textthì đến đây các bạn cũng sẽ bị reject
+second1727 textnha đó thì đến đây các bạn bị reject và
+second1731 textnhưng mà trong trường hợp mà các bạn gửi
+second1733 textđi một cái request nó không phải remove
+second1735 textmà ở đây nó là edit hay là các bạn tạo
+second1737 textmới đi
+second1739 textrequest a vender nà thì ở đây người ta
+second1742 textsẽ thấy là ở trong hệ thống các bạn phân
+second1744 textquyền ấy à là cái thằng này có quyền sửa
+second1747 textcó có quyền tạo mới một cái một cái gian
+second1751 texthàng thì nó sẽ check cái quyền này thì
+second1754 textlúc này thì nó sẽ edit sued à tạo mới s
+second1760 textnha đó thì cái mà cái authentication ấ
+second1765 textthì nó sẽ giúp hệ thống cái giúp hệ
+second1769 textthống phân biệt được là à Cái request
+second1771 textnày nó có quyền hay là không có quyền
+second1773 texttương tác với cái cái cái feature này
+second1776 textCái account này đúng không đó thì ở đây
+second1780 textKhi các bạn đi phỏng vấn Maybe các bạn
+second1781 textsẽ bị bị hỏi là authentication và
+second1785 textauthorization hai cái này rất rất rất
+second1787 texthay bị nhầm và hay bị hỏi luôn Nếu mà
+second1791 textcác bạn nói là các bạn làm api rồi thì
+second1795 textkhả năng cao là 90 ph là các bạn sẽ gặp
+second1798 textphải cái câu hỏi này thế thì
+second1799 textauthentication khác với authorization là
+second1802 textnhư thế nào thì authorization thì ờ như
+second1806 textnãy mình phân tích nó quyết định xem là
+second1807 textcác bạn ừ ờ đã đăng nhập hay chưa các
+second1811 textbạn có ở đây nó nói là determ user can
+second1814 textor cannot access nghĩa ở đây nó đang nói
+second1817 textđến có quyền à Có hay không có thể truy
+second1821 textcập vào thì nó đang đang nói đến cái vấn
+second1823 textđề là các bạn login hay chưa nha Bởi vì
+second1827 textthực ra khi khi mình nói đến đây là cái
+second1829 textthằng này là có hay có không có thể thì
+second1831 textcũng là có hay không có thể đúng không
+second1833 textlog in thì cũng là có hay không có thể
+second1835 textnên nó hơi bị conf một tí rồi còn cái
+second1838 textthằng này là nó nó quyết định ai có thể
+second1841 textlàm việc được với cái api đấy nha đó Ờ
+second1845 textchỗ này mọi người có bị khó hiểu không
+second1847 textnhở một cái là liên quan đến việc là các
+second1851 textbạn login hay chưa và một cái là quyết
+second1853 textđịnh là quyền hạn của các bạn các bạn
+second1855 textlogin rồi nhưng mà quyền hạn của bạn bạn
+second1858 textđược hay là không được tương tác với cái
+second1860 textapi đấy
+second1864 textỜ Mọi người ơi Mọi người chỗ này có có
+second1867 textkhó hiểu không có có hiểu chỗ này không
+second1868 textmọi
+second1873 textngười Ừ lúc mình có phải giảng lại chỗ
+second1877 textnày
+second1882 textkhông
+second1883 textỜ Hồng ơi Hồng không hiểu
+second1886 textnhư Hồng B hầu không hiểu như thế
+second1891 textnào mọi người không hiểu phần nào
+second1895 textnhờ là Hương không hiểu ở phần nào hả
+second1899 textHương
+second1908 textơi Alo Hương ơi Hương không hiểu như nào
+second1911 textÀ
+second1915 textOk rồi
+second1920 textnó sẽ có một vài
+second1929 textcái đây cho một cái số cái tài liệu th
+second1933 textra trong một số cái tài liệu mà cô đọc
+second1935 textchúng ta cũng nhầm cái authorization với
+second1938 textvới cả authentication rất dễ là bị nhầm
+second1941 textluôn
+second1943 textđó rồi cái thứ hai nữa là rồi nhắc lại
+second1947 textnha cái authentication là nó sẽ quyết
+second1949 textđịnh là các bạn chúng ta ở Cái r gì và
+second1953 textchúng ta có quyền tương
+second1956 texttác Ừ cái authorization nó liên quan đến
+second1962 textviệc các bạn log in hay chưa login ví dụ
+second1965 textnha
+second1966 textỜ ví dụ như là khi các bạn vào shopee
+second1970 textđúng không để các bạn mua sắm một cái
+second1971 textsản phẩm gì Các bạn thêm vào rõ hàng thì
+second1974 textbắt buộc các bạn phải phải login đúng
+second1976 textkhông
+second1979 textTại sao authentication lại đăn chương
+second1984 textauthorization authentication lại đăng
+second1989 texttrước đâu nhờ có chỗ nào mà cái nào đăng
+second1992 texttrước cái nào
+second1998 textnhỉ Từ từ đã nha từ từ từ từ từ từ mọi
+second2001 textngười ơi Từ từ để cô nói lại cho Hiếu
+second2003 texttrước cái authentication với cả
+second2005 textauthorization đã nha
+second2012 textRồi cái thằng
+second2016 textnày Cái thằng này nó liên quan đến cái
+second2019 textviệc các bạn login hay chưa login đúng
+second2022 textkhông Nghĩa là có một tí sẽ có một số
+second2025 textcái tính năng mà các bạn phải login thì
+second2028 textcác bạn mới tương tác được với cả hệ
+second2030 textthống đúng không Thì cái này nó là nó là
+second2034 textcái parameter để cho hệ thống biết được
+second2036 textlà à các bạn đã login hay chưa Còn đối
+second2039 textvới cái authentication nó là cái
+second2041 textparameter để cho hệ thống biết được là à
+second2044 textvới bạn đ đ lỗ in rồi nhưng mà bạn với
+second2046 textcái quyền này của bạn này quyền của bạn
+second2048 textlà admin thì bạn sẽ làm được rất là
+second2050 textnhiều thứ nhưng mà quyền của bạn ví dụ
+second2052 textlà là customer là khách hàng bình thường
+second2055 textthôi thì bạn sẽ không có quyền ở quyền
+second2059 texthạn ở một số những tính năng thì hệ
+second2061 textthống nó sẽ phân biệt bằng cái
+second2062 textauthentication
+second2064 textnày ok chưa hả Hiếu ơi
+second2076 textừ nha một cái thì là dành cho log in nó
+second2080 texthệ thống nó biết là à bạn mày là ai
+second2084 textusername thay vì người ta hỏi username
+second2086 texthay password của bạn là gì đúng không
+second2088 textBởi vì người ta sẽ không lưu cái
+second2089 textusername và password của bạn gửi trong
+second2091 textcái request mà người ta sẽ lưu cái Token
+second2094 textđể đảm bảo cái Security á Chứ người ta
+second2096 textkhông lưu thế nên là người ta sẽ trả cho
+second2098 textbạn một cái chuỗi optimization ngày xưa
+second2102 textngày mà rất là lâu rất là lâu rồi cô nhớ
+second2105 textlà cái hồi đấy là lâu lắm rồi cô đi cô
+second2108 textmới đi làm việc với api sẽ có những à Có
+second2112 textnhững cái dự án mà cô gửi đi request cô
+second2115 textphải truyền cả username và password
+second2118 textỪ Ờ chắc là cái đấy nó cũng chỉ là cái
+second2121 textmóc thôi cô phải truyền cả username và
+second2123 textpassword để làm những cái chứ để làm nh
+second2126 textđể gửi đi những request mà Chứ không có
+second2128 textdùng cái chuỗi authentication
+second2130 textauthorization đâu nha đó Ờ nhưng mà với
+second2134 textcái Security thì người ta sẽ lưu trữ cái
+second2137 textcái cái cái cái Token của các bạn chứ
+second2139 textngười ta sẽ không lưu trữ
+second2141 textcái cái hay là cái asset Token ấ hay cái
+second2145 textsỗ authorization để để out authorize
+second2149 textnha
+second2156 textrồi
+second2160 textcò đợi cô chút nha nhà cô lại có
+second2186 textchuông
+second2217 textOk đúng rồi cái cách giải thích của Tiến
+second2220 textđúng không ạ ví dụ như là các bạn nếu mà
+second2223 textcác bạn có các bạn là giáo viên thì bạn
+second2226 textcó thể thêm sửa xóa học sinh trong một
+second2228 textlớp đúng không Thì lúc đấy thì các bạn
+second2230 textphải để cái authentication của mình là
+second2233 textgiáo viên đúng không với cái profile là
+second2235 textgiáo viên Còn nếu mà các bạn là cái
+second2237 textprofile là học sinh thì cái roll của học
+second2240 textsinh ấy thì các bạn sẽ không thể thêm
+second2242 textsửa xóa profile của học sinh mà các bạn
+second2244 textchỉ xem danh sách thôi thì lúc đấy thì
+second2246 texthệ thống sẽ phân biệt được là à hệ thống
+second2249 textsẽ phân biệt À cái câu hỏi của hệ thống
+second2251 textlà làm sao mà tôi biết được là ai có
+second2252 textquyền làm cái này ai có quyền làm kia
+second2255 textđúng không Làm sao tôi biết được là cùng
+second2257 textmột cái request đấy cùng một cái
+second2259 textỜ cái part đúng không cái URL đấy thì
+second2263 textlàm sao mà tôi biết được là ai có quyền
+second2265 textlàm cái này ai có quyền làm cái kia đúng
+second2267 textkhông Bởi vì trên Ui của các bạn các bạn
+second2269 textphải gọi đến đến cùng một cái cái cái
+second2273 textcái cái cái cái api đúng không đó thì
+second2275 textcái hệ thống nó phải phân biệt bằng cái
+second2277 textroll của các bạn và cái roll ở đây nó là
+second2279 textcái cái authentication của các bạn là gì
+second2282 textá Còn cái authorization thì đơn giản chỉ
+second2285 textlà đăng nhập hay chưa đăng nhập thôi nha
+second2288 textrồi
+second2291 text[âm nhạc]
+second2293 textỜ cái đây nó cái ý mà bạn hỏi là Thông
+second2298 textthường thì nó được được thực hiện trước
+second2302 textnó được verify trước khi mà chúng ta
+second2307 textverif cái chỗi Token đấy nó có quyền hay
+second2310 textlà
+second2310 textkhông không biết dùng cái từ gì đăng
+second2313 textnhập hay là không đăng nhập nha Thì cái
+second2316 textnày chỉ usually thôi nó không phải là
+second2320 textusually nghĩa là cái gì nhỉ
+second2323 textCái cái tỉ lệ của nó nó không phải là
+second2326 text100 ph nha nó không phải là Must Be
+second2328 textMaybe thì sẽ có những cái người người ta
+second2330 textsẽ verify là xem là à Ừ cái cái cái cái
+second2335 textrequest người ta sẽ verify ph à request
+second2337 textnày đăng nhập chưa Sau khi đăng nhập
+second2339 textcheck đăng nhập rồi thì mới check cái
+second2342 textroll của nó là gì nhưng mà ngược lại sẽ
+second2344 textcó những cái hệ thống
+second2346 textnày người ta phải check cái này trước
+second2349 textbởi vì sao Bởi vì ví dụ như cái thằng
+second2351 textthằng thằng
+second2353 textthằng shop đi nó có mấy cái app đúng
+second2357 textkhông Nó là mấy cái app các bạn cài trên
+second2360 textUi nó là mấy cái app riêng này đúng
+second2361 textkhông đó thì nó sẽ phải check xem là à à
+second2365 textCái account của có bạn là là là là thằng
+second2370 textơ cao của bạn là thằng học sinh hay cao
+second2373 textcủa bạn là thằng là là anh giáo viên thì
+second2376 textngười ta sẽ redirect đến cái cái cái cái
+second2381 textresour tương ứng cái áp tương ứng rồi
+second2383 textsau đấy người ta mới check xem là
+second2387 textờ Xem rồi xem người ta mới check xem là
+second2390 textà Cái anh này đã log in với cả cái rone
+second2394 textđấy
+second2395 textchưa
+second2398 textmột user nhiều roll Ok cũng sẽ có có thể
+second2402 textcó một một user nó có nhiều r nó sẽ
+second2406 textcheck cái
+second2407 textỜ đổi một user nhiều roll thì trong cái
+second2412 textcái cái
+second2417 textcái nha Cái này nó chỉ là usually thôi
+second2420 textnó không phải là 100 thì nó sẽ tùy tùy
+second2424 textthuộc vào cái business hay là cái cái
+second2426 textcái cách người ta Build hệ thống
+second2430 textấy rồi thực ra là nhiều một user nhiều
+second2434 textroll thì Maybe nó sẽ apply cái roll cao
+second2437 textnhất Nhưng mà nó sẽ là
+second2439 textỜ nó sẽ là hợp chứ không phải là là là
+second2442 textdao nha mọi người nhá Ừ Nói như nào nhỉ
+second2445 textví dụ như là cái cái thằng này nó vừa có
+second2449 textroll là admin nó vừa có roll là business
+second2451 textnhưng mà roll admin của nó thì nó chỉ có
+second2454 textquyền sửa và quyền x khá thôi nó không
+second2457 textcó quyền add đúng không Nhưng mà cái
+second2458 textthằng account Đấy nó vừa có roll admin
+second2461 textnó vừa có roll business thì nó sẽ phải
+second2463 textcó thêm và có sửa và có xóa nha Còn nếu
+second2467 textmà mình apply cái roll cao nhất là ví dụ
+second2469 textmình cho là admin là cao nhất đi thì lúc
+second2471 textnày nó không có cái quyền tạo mới thì nó
+second2473 textcũng Ờ cũng chưa chưa đúng hoàn toàn nha
+second2476 textnó đúng nó đúng khi mà cái thằng admin
+second2479 textnày này nó có tất cả các quyền mà cái
+second2482 textthằng này có Nha và ngoài ra thì nó có
+second2485 textmột số những cái quyền khác nữa
+second2491 textnha đó thì
+second2494 textỜ nó lấy quyền cao nhất thì là nó đúng
+second2497 textmột phần nó đúng khi mà cái thằng thằng
+second2500 textcao nhất đấy Nó có tất cả những cái
+second2502 textquyền mà cái thằng ờ rone khác nó đang
+second2505 textcó còn không thì nghĩa là nó là tổng hợp
+second2509 textcủa những cái cái quyền khác nhau nha ví
+second2511 textdụ như thằng này nó có thằng thằng này
+second2514 textnó là nó nó còn có cái quyền nữa là xóa
+second2518 textcomment chẳng hạn như thế à À không
+second2521 textThằng này mới có là admin nó mới có
+second2524 textquyền xóa comment chẳng
+second2527 texthạn
+second2529 textỪ coi để cô ví dụ khác nó chút quá hơn
+second2533 textví dụ như là cái thằng này thằng này nó
+second2535 textcó cái quyền gì ta à cập nhật giá đúng
+second2539 textkhông update
+second2545 textGiá
+second2548 textđó Ờ thì cái thằng này set Giá hay là
+second2551 textupdate giá đúng không thằng admin thì nó
+second2554 textkhông có cái quyền này thế nhưng mà cái
+second2555 textthằng admin nó là quyền to hơn đúng
+second2557 textkhông Nhưng mà trong trường hợp cái cái
+second2560 textcái cái account đấy nó có quyền
+second2563 textỜ cái thằng acc account đấy nó có quyền
+second2566 textvừa là admin và vừa là business thì cái
+second2569 textnếu mà nó chỉ là cái thằng nó nó chỉ lấy
+second2572 textđược cái quyền Admin đi thì lúc này nó
+second2574 textsẽ không có cái quyền này nữa thì không
+second2576 textđấy thấy là cái business của mình là
+second2578 textđang bị lỗi nha đó trong trường hợp đ
+second2582 texttrong trường hợp là nếu mà thằng admin
+second2584 textnó có luê tất cả những cái quyền này thì
+second2585 textcâu đấy sẽ là đủ nha
+second2588 textđó
+second2597 textthì Rồi thì nó nó phải lấy tất cả những
+second2600 textcái quyền nó lấy tất cả những cái quyền
+second2603 textmà những cái v của nó mà có nha chứ
+second2606 textkhông phải là lấy cái cái thằng cao nhất
+second2609 textBởi vì thực ra nếu mà nói là cao nhất
+second2611 textcũng cũng khó bởi vì cũng không biết là
+second2613 textcái nào là cao nhất Cái nào là cái thấp
+second2615 texthơn đúng không Đấy là cái cái cái cái
+second2618 textcái mặt mình định nghĩa thôi chứ còn nếu
+second2620 textmà nhìn như cái r này thì admin nó sẽ có
+second2623 textmột số những cái quyền khác khác chứ
+second2625 textkhông phải là cao hơn chẳng hạn như thế
+second2627 textcòn cao hay thấp là do mình tự mình định
+second2629 textnghĩa thôi Còn bản chất thì nó chỉ là
+second2632 textkhác có cái quyền cái này khác cái kia
+second2634 textthôi nha
+second2638 textrồi đây Cái này nó sẽ sẽ Ờ transmit to
+second2643 textcái ID Token hoặ cái thằng này sẽ dùng
+second2646 textcái asset Token nha Thì cái asset Token
+second2649 textTí nữa mình sẽ cùng làm việc và mình sẽ
+second2650 texttrông xem nó như thế nào và cái ID Token
+second2653 textnày thì nó là một cái chuỗi Token
+second2656 textthôi nãy thì cô ví dụ nó tên là admin
+second2658 textnhưng mà có thể là người ta sẽ thay bằng
+second2660 textcái chuỗi Token là gì gì đấy thì người
+second2664 textta sẽ tự định nghĩa dep họ sẽ định bía
+second2666 textvào lúc mình test
+second2669 textỜ th cô xem
+second2677 textnà authentication và
+second2695 textauthorization
+second2715 textỪm thằng này đang
+second2725 textngược
+second2735 textOk cô không biết là cái này thì cũng khó
+second2740 textthật nhờ bởi
+second2744 textvì Ok thì cái resource nó sẽ khác nhau
+second2749 textvà cái cách Bởi vì cái tên của nó ấy nó
+second2752 textsẽ gây cho mình cái cái hiểu lầm
+second2757 textcái này thì cô cũng không biết giải
+second2759 textthích vì sao Bởi vì bên cô thì cũng sẽ
+second2761 textthường là
+second2762 textsẽ làm theo cái cái cách này thì có thể
+second2766 textlà bên khác họ sẽ refer cho cái cách
+second2768 textkhác Ờ các bạn khác thì ở công ty các
+second2771 textbạn thì đang dùng như thế nào Có ngược
+second2774 textlại với cả cái này
+second2782 textkhông bên các bạn thì đang dùng theo cái
+second2785 textA là cái nào authentication là cái
+second2814 textnào Ok
+second2820 textOk Thế mình Keep in mind ở đây nhá Bởi
+second2823 textvì cái này mình sẽ
+second2828 textkhông
+second2832 textỪ ok thì cô sẽ tìm hiểu thêm và đọc lại
+second2836 textcái này nha bởi vì cái này nó cũng là
+second2837 textmột cái resource
+second2839 textỜ cô refer đến để làm cái tài liệu của
+second2843 textbên mình chắc là cô sẽ confirm thêm với
+second2845 textcả DEF xem là cái sự khác nhau giữa hai
+second2850 textcái này là như thế nào và nó có cái quy
+second2853 textchuẩn gì hay không Hay là nó cũng
+second2857 textflexible thì lúc đấy thì mình
+second2861 textsẽ phân giải sau nha đó Thì bởi vì mỗi
+second2864 textcái resource thì họ sẽ giải thích theo
+second2867 textmột kiểu chúng ta là người làm theo th
+second2869 textnên sẽ bị confuse nhưng mà về cơ
+second2872 textbản mình tạm thời ignore hai cái tên nó
+second2875 textđi
+second2878 textờ và cái tài liệu của mình ấy Đợi một
+second2883 textchút cái tài liệu của mình ý đang Follow
+second2887 texttheo ấy đ
+second2894 textt thì nó cũng đang dùng cái
+second2896 textauthorization mọi người nha nó đang dùng
+second2899 textcái authorization là để xác nhận xác
+second2902 textthực là nó đăng nhập hay là chưa đăng
+second2905 textnhập thế nên là mình tạm thời mình cứ
+second2907 textaccept cái khái niệm khái niệm này đi Ờ
+second2911 textvề còn cái tên ấy thì mình sẽ phân biệt
+second2913 textsau Tuy nhiên là cái kho ở đây cái mục
+second2916 textđích cái cái cái cái mục đích ở đây mình
+second2918 textphân biệt được là à sẽ có hai cái một
+second2920 textcái dùng để mình xác nhận xem là à Nó
+second2922 texttruy cập hay đăng nhập hay chưa và một
+second2925 textcái dùng để xác nhận xem là à Cái rone
+second2928 textcủa nó là gì nó có quyền hay không có
+second2930 textquyền
+second2931 textỜ có quyền hay không có quyền truy cập
+second2934 textvào cái tính năng này tính năng kia nha
+second2937 textThì còn cái tên của nó thì thực sự thì
+second2940 textcô cũng rất là bị confuse bởi cái này á
+second2942 textkhông phải một mình Các bạn đâu cô hay
+second2944 textbị nhầm giữa cái này này authentication
+second2946 textauthorization đó với những cái tài liệu
+second2949 textcó nhiều tài liệu thì người ta dùng
+second2951 textauthorization
+second2953 textnha
+second2955 textĐó ok Maybe có thể post sai Ờ Hoặc là
+second2959 textnhững cái tài liệu Cang Follow thì nó
+second2962 textđang không giống với mọi người đó thì
+second2964 texttuy nhiên là ừ cái này thì cái này cô sẽ
+second2968 texttrao đổi thêm với những cái những cái
+second2971 textbạn xem những cái bạn mà làm cùng cô xem
+second2974 textlà ở cái đơn vị họ họ gặp phải những cái
+second2976 texttrường hợp này như thế nào
+second2979 textvà cái này nó là đang là flexible hay là
+second2983 textnó phải theo một cái cụm từ nào đấy Đúng
+second2985 textchuẩn thì mới đúng đó hoặc là Mỗi bên
+second2988 textđều có thể dùng swap chỗ thì thế này chỗ
+second2992 textthì thế kia được nghĩa là họ trong cái
+second2994 texttài liệu của họ defile defile cái nào là
+second2997 textcái nào nha đó thì về cơ bản thì mình
+second3000 textphân biệt ra một cái thì sẽ dùng để phân
+second3003 textbiệt thằng nào dùng luôn cái nào một cái
+second3005 textđể phân biệt là nó login hay chưa login
+second3007 textnha Ok không mọi
+second3011 textngười rồi
+second3014 textà Rồi chúng ta sẽ đi đến phần tiếp theo
+second3019 textnha Cái api của chúng
+second3024 textta
+second3032 textcô làm gì đây
+second3042 textlà An trường to và bị
+second3047 text43 Ok chúng ta vào login đã nhá api của
+second3050 textchúng ta chúng ta đi vào login đã cô mở
+second3053 textxem cái tài liệu cô
+second3054 textđâu
+second3073 textỪ đây là cái api các bạn dùng login nha
+second3076 textthì các bạn tạo cái request login cho cô
+second3084 texttrước
+second3093 textđó ở đây người ta dùng thẻ post thì
+second3095 textchúng ta sẽ dùng thẻ post nha mọi người
+second3097 textnha và cái
+second3104 textnày
+second3107 textrồi sau đấy là cái username và password
+second3110 textcủa các bạn thì các bạn vào body nha các
+second3114 textbạn chọn Raw và chọn tation các bạn bỏ
+second3118 textusername password vào
+second3121 textđây bạn gửi đi
+second3123 textrequest đó thì nó sẽ trả ra cho các bạn
+second3126 textmột cái chỗi
+second3144 textToken
+second3153 textrồi Mọi người có lấy ra được cái chuỗi
+second3155 textToken không thì nó chính là cái step này
+second3158 textnày mọi người này À cái step mà mình
+second3162 textlogin này Đó mình gửi cái request login
+second3165 textđến server nó sẽ trả ra cho chúng mình
+second3168 textmột cái phản hồi này và cái phản hồi này
+second3171 textnó sẽ cho mình cái cái chuỗi Token này
+second3174 textvà sau đấy thì tất cả những cái request
+second3176 textmình gửi đi thì thì mình phải đính kèm V
+second3178 textchuỗi Token để cho hệ thống biết là bạn
+second3180 textđã login hay chưa nha rồi Có bạn nào
+second3184 textchưa được không Để mình sang cái api
+second3186 texttiếp theo
+second3198 textnh
+second3201 textờ Vân Anh là có được hay là ok chắc là
+second3205 textđược rồi mình sẽ sang đến cái
+second3208 textapi update
+second3212 textrồi cô gử cho mọi người
+second3221 textnha đây vừa nãy mình cô mới tạo mới một
+second3225 textcái booking nó có mã là 1698 và bây giờ
+second3228 textcô muốn update cái thông tin liên quan
+second3231 textđến cái booking
+second3234 textnày
+second3238 textgì
+second3241 textch
+second3242 textOk đó và ở đây người ta dùng trp
+second3247 textnha và tiếp theo là Part của nó
+second3254 textnày mọi người lưu ý là cái dấu cách nha
+second3259 textcẩn thận CP nhầm dấu cách và cô sửa cho
+second3264 textCái
+second3266 textbooking có mã là
+second3268 text1698 thì cô sẽ điền cái ID của nó vào
+second3276 textđây và tiếp theo mọi người nhìn nha
+second3279 texttrong
+second3280 textcái đây cái body của các bạn này các bạn
+second3284 textcóp cái chuỗi này vào cái
+second3293 textbody đó các bạn có thể đổi
+second3296 textthành
+second3299 textThu Hoài Thu hoa giá là 15 6 9000 đô sự
+second3308 textPhi không
+second3311 text20
+second3318 text4
+second3321 textrồi sau đấy các bạn không điền cái à mọi
+second3324 textngười đổi mọi
+second3330 textngười mọi người đến đây chưa Mọi người
+second3332 textđiền được cái body của nó chưa và cái ID
+second3336 textnha mọi người không dùng cái ID của cái
+second3338 textapi của cô nhá không lại sửa chồng chéo
+second3341 textlên
+second3344 textnhau mọi người tự sửa cho Cái api của
+second3346 textmọi người cái A Sorry cái booking của
+second3349 textmọi người
+second3351 textrồi cô không điền cái gì thêm cô không
+second3354 textĐiền header gì Các ạ cô gửi đi request
+second3356 textnày cô sẽ thấy nó trả ra là 43 forbidden
+second3359 textđúng không Bởi vì sao Bởi vì chúng ta
+second3361 textcòn thiếu tất cả rất là nhiều những cái
+second3363 textthông tin ở header trên này
+second3367 textnha content type có chưa có rồi này acc
+second3371 textcó chưa có rồi này Cooky của chúng ta
+second3374 textchúng ta sẽ điền cái Cooky vào
+second3377 textđây Cooky là cái gì Cookie nó sẽ bao gồm
+second3381 textcái Token này
+second3384 textbằng đ chúng ta sẽ copy cái chuỗi Token
+second3387 textchúng ta có ở đây
+second3391 textra đó và thứ hai nữa chúng ta có cái
+second3394 textauthorization này xác thực là các bạn có
+second3397 textđăng nhập hay chưa
+second3399 textNày cú pháp của nó sẽ là basic dấu
+second3403 textcách chỗ này C
+second3408 textthừa th dấu cách rồi basic tiếp theo là
+second3412 textdấu cách và cái chuỗi Token của các bạn
+second3418 textC
+second3430 textcha đó sau đấy cô gửi đi
+second3434 textnày đó thì cô sẽ gửi đi
+second3440 textcái cái sửa này Thành công và sau đấy
+second3444 textthì cô sẽ lấy cái get detail này nó là
+second3449 textcái 16 à
+second3453 text1569 1 5 6 9 thì mình sẽ thấy là à cái
+second3458 textthông tin nó đã được
+second3461 textđổi từ nha À sorry Cái này là Total PR
+second3466 textcô 1698 cô nhầm nhầm nhầm Sorry mọi
+second3469 textngười 1
+second3472 text69 998
+second3476 textđó thì mọi người sẽ thấy là à cái thông
+second3478 texttin này của cô đã được cập nhật
+second3481 textnha rồi mọi người Điền tất cả những cái
+second3484 textthông tin mà cái requirement họ yêu cầu
+second3487 textchúng ta phải có nha Thứ nhất là cái
+second3489 textCooky các bạn thêm vào và cái
+second3491 textauthorization này để xác nhận là các bạn
+second3493 textđăng nhập hai
+second3498 textchưa rồi Có bạn nào chưa làm được
+second3503 textkhông mọi người
+second3505 textsửa được hết thông tin cả đúng không mọi
+second3507 textngười có ai bị vướng mắc gì thì mọi
+second3511 textngười hỏi
+second3517 textnha Cái expire ý của em là cái cái thời
+second3523 textgian mà nó hết hạn ấy
+second3525 texthả Hết Hạn
+second3528 textThì Cách thứ nhất là
+second3531 textem ví dụ session của em 15 phút thì em
+second3535 textgửi nó ở session thứ 16 mà em thấy nó
+second3537 textvẫn gửi được thì là BC đúng không Chứ de
+second3541 textHọ sẽ không check được cái XP Token này
+second3544 textbởi vì sau 16 phút thì cái server bây
+second3548 textgiờ bình thường mọi người sẽ thuê một
+second3549 textcái server bên ngoài để người ta quản lý
+second3551 textcái này thì người ta sẽ kin cái người ta
+second3553 textsẽ xóa cái chuỗi Token này đi thì em sẽ
+second3555 textkhông dùng được nữa đúng không dep họ
+second3558 textcũng không check
+second3559 textđược hoặc là xem cách nào để biết là nó
+second3563 textđã hết hạn rồi thì em cứ gửi Quest bằng
+second3565 textcái chỗi Token đấy thì em sẽ thấy là là
+second3569 textlà là nó trả về 401 thì lúc đấy nó hết
+second3572 textrồi hết hạn rồi nó không cần phải nhờ đ
+second3576 textcheck
+second3577 textđâu Mọi người gửi được chưa mọi người có
+second3580 texttạo à mọi người có sửa được cái thông
+second3583 texttin này
+second3588 textkhông đúng
+second3591 textrồi mình check menu thôi Nhưng mà vấn đề
+second3595 textnày là cũng chẳng ai làm auto để check
+second3596 textcái chuỗi Token này còn tồn tại hay
+second3599 textkhông tồn tại cả nha Cái chỗ cái chuỗi
+second3602 textToken này nó support cho cái feature của
+second3604 textcác bạn ấy nên người ta sẽ làm auto cho
+second3606 textcái việc là feature của bạn hoạt động
+second3608 texthay không Chứ còn cái này là cơ chế thế
+second3610 textnên là người ta sẽ
+second3612 textkhông không check Còn trong trường hợp
+second3615 textmà ví dụ như cái dự án của bạn cần test
+second3619 textperformance mà test trong khoảng độ một
+second3622 texttiếng đi và chuỗi Token của các bạn nó
+second3624 textchỉ
+second3625 textcái session của bạn chỉ 15 phút thôi thì
+second3627 textcác bạn khi mà Bạn test performance vào
+second3630 textmột tiếng thì nó sẽ bị hết session thì
+second3634 textcác bạn không test được performance lúc
+second3635 textđấy các bạn bảo các bạn té là để cái cái
+second3639 textcái cái session của bạn dài ra thế thôi
+second3643 textchứ còn không ai check một cái chuỗi
+second3645 textToken
+second3646 textrồi Mọi người có ai không tạo được cái
+second3649 textapi này
+second3654 textkhông
+second3655 textmọi người tạo được hết rồi đúng không
+second3656 textKhông ai có vấn đề gì đúng
+second3662 textkhông Rồi Ok xịn
+second3668 textquá rồi Tiếp theo là chúng ta đến cái
+second3672 textDelete
+second3679 textnhá Rồi các bạn tạo cho cô một cái
+second3682 textrequest về delete
+second3690 textDelete booking a
+second3697 textbooking đó thì ở đây
+second3702 textnày họ sẽ dùng
+second3704 textcái cái method là Delete Đúng không Hôm
+second3709 texttrước mình học rồi Hôm qua mình học rồi
+second3710 textDelete thì người ta sẽ dùng cái method
+second3712 textlà delete và ngoài ra thì ở đây người ta
+second3714 textsẽ chỉ có một cái part thôi Và mình cũng
+second3717 textnói với nhau hôm qua rồi Hôm qua mình
+second3720 textcũng nói với nhau là với delit mình
+second3722 textkhông thay đổi gì mình không cập nhật gì
+second3725 textcái cái cái cái cái cái dữ liệu chi tiết
+second3728 textcả và mình xóa cả cái bàn ghi đó Thế nên
+second3731 textlà mình không có cái body này nha
+second3734 textỜ Delete thì ví dụ như cô Cô đang xóa
+second3738 textcho cái 1698 này đó thì các bạn thử Xóa
+second3742 textcủa các bạn xem nà
+second3749 textÀ đây còn cả Cooky và authorization đ
+second3753 textnữa này
+second3754 textparam này
+second3768 textđó bằng
+second3773 textạ
+second3787 textcô copy từ bên kia sang đỡ vẻ đó sau đấy
+second3793 textcô send
+second3794 textrequest
+second3796 textỦa đợ chút
+second3803 textnha có host có AC Token này có content
+second3809 texttye có không
+second3833 textta
+second3845 textỪ cũng không được t xem nào Cooky này
+second3850 textmọi người có ai lấy được à mọi người có
+second3852 textai đã xóa được
+second3858 textcái nó thiếu thông tin gì ở đây ta set
+second3863 textauthorization to set to delete
+second3882 textand Chúng ta không có quyền forbidden là
+second3885 textchúng ta đang bị chặn ấy mà bị chặn thì
+second3888 textkhông biết là
+second3891 textcái cái này nó thiếu cái thông tin gì ta
+second3895 textnó không mô tả đây thì không biết được
+second3898 textxem những
+second3901 textcái nó chỉ có cái Cooky này
+second3904 textauthorization này
+second3908 textà Ok cô thử lấy cái mới nha Nhưng mà cái
+second3912 textnày chắc là nó vẫn valid chứ nhỉ
+second3915 textÀ à Cũng không phải đợi cô chút nhà nó
+second3920 textvẫn còn tồn tại cái này hoặc Maybe cô
+second3922 textxem
+second3923 textnào
+second3926 textrồi cái session này Maybe nó đã bị
+second3937 textDelete Metal not
+second3949 textAl của em trả về bao nhiêu nó phải trả
+second3953 textvề 204
+second3957 textcơ của cô đang xem là sao nó lại bị chưa
+second3960 textra
+second3962 textnày metos not
+second3974 textallow xem lại nha Thứ nhất là cái Delete
+second3978 textnày đúng rồi này cái part này đúng rồi
+second3981 textnày tạ mới này
+second3987 text37
+second4006 text37 từ từ mình giải thích từng cái một
+second4008 textnhá ở đây cô Delete à cô thử tìm xem nào
+second4014 textghé booking detail Cô xóa Xem xem nó có
+second4016 textra cái thằng này không nha not file Đúng
+second4020 textrồi thì nghĩa là cô tạo mới xong rồi cô
+second4022 textDelete thành công có bạn nào ra 204
+second4024 textkhông cô ra 201 thì 201 thì là bốc
+second4030 textrồi
+second4031 textauthorization
+second4034 textà đây cái param của người ta người ta
+second4037 textđịnh nghĩa như thế thì mình sẽ dùng cái
+second4040 textcụm từ này
+second4043 textnha
+second4048 textđổi cô xem
+second4051 textnào 201 nó trả ra 201 thì là mọi người l
+second4055 textbốc nha bởi vì nó đang trả ra không đúng
+second4058 textvới cả cái cái này cái yêu cầu của
+second4063 textrequirement đợi Câ chút của Tiến là
+second4068 text405 405 em tạo cái em tạo một cái
+second4072 textbooking mới xong rồi Em xóa luôn nó nó
+second4077 textđi Nãy cô bị vậy
+second4084 textạ bảo ra 201 Ờ của Quyên ra 2004 hay 201
+second4089 texthả Quyên ờ ra 201 thì là bớc bớc mọi
+second4093 textngười
+second4095 textnha Và ở đây không phải created mà phải
+second4100 textlà đó trả ra là Delete hay gì gì đấy
+second4105 textremot nha Mà cũng 204 chứ không phải là
+second4109 text2011 ở
+second4114 textđây mọi người đều ra được đúng không mọi
+second4117 textngười đều Xóa thành công đúng không Mà
+second4119 textmọi người check xem là mình xóa thành
+second4120 textcông hay không là mọi người vào cái vào
+second4123 textcái booking detail
+second4124 textnày nha mọi người vào cái booking detail
+second4128 textmọi người sẽ xóa nó đi đó à mình Sorry
+second4133 textmọi người sẽ tìm xem xem là nó có còn
+second4135 texttồn tại hay không Nếu nó trả ra not file
+second4137 textkhông tìm thấy thì nghĩa là bạn đã xóa
+second4139 textthành công ná dp mà không tìm thấy nữa
+second4141 textvà khi mà chúng ta test
+second4149 textư rồi em thử tạo mới đi em thử tạo mới
+second4153 textbooking ID của 58
+second4163 textnày
+second4166 textĐúng là bing của mình 58 không Ving ID
+second4170 text58 Ok và 44 nghĩa là nó không tìm thấy
+second4173 textnó không tìm thấy dữ liệu trong dp
+second4178 textạ Rồi cái liên quan đến chuỗi topen này
+second4182 textthì mai mình buổi sau mình sẽ học cái À
+second4187 textautomation cho nó chúng ta làm scrip cho
+second4190 textnó thì nó sẽ không bị cái
+second4195 textem xóa Ờ phòng ơi nó đang hoạt động đúng
+second4199 textrồi đấy à 201 ở đây delit là cái này lỗi
+second4203 textnày đáng lẽ nó phải ra 2004 mà nó thông
+second4205 textbáo là xóa thành công và sau khi xóa
+second4207 textthành công thì đương nhiên em sẽ không
+second4209 texttìm thấy ở trong DB rồi đúng không hệ
+second4211 textthống nó không tìm thấy đúng
+second4218 textkhông Đúng rồi đó Và trong cái trường
+second4221 texthợp này thì ví dụ như các bạn đây cũng
+second4224 textlà một cái lỗi này em
+second4231 textxóa
+second4232 textỜ về flow là đúng nhưng về
+second4236 textcái của em là ra 201 nhưng check detail
+second4239 textvẫn nó file thì về flow là đúng nha
+second4242 textNhưng mà về cái mặt hiển thị ý thì nó
+second4245 textđang là BC và các bạn log b cho trường
+second4247 texthợp là các bạn xóa thì các bạn mong muốn
+second4248 textlà cái status code phải là
+second4251 text204 hiểu không Hồng ơi
+second4255 textĐúng rồi respon hiển thị sai á respon
+second4257 textChả ra sai thì đấy là B đúng không nhiệm
+second4259 textvụ của mình
+second4261 textđó rồi đó thì đây các bạn xóa một cái
+second4266 textcái cái cái khi chúng ta test ấ thì sẽ
+second4269 textcó những C là chúng ta xóa cái cái
+second4272 textbooking không hề tồn tại đúng không thì
+second4274 textchúng ta sẽ expect là phải là not f
+second4278 textkhông Không tìm thấy hoặc là xóa một cái
+second4281 textbooking mà đã bị x phá trước đấy rồi
+second4285 textđúng không Thì nó phải trả ra cái Aom
+second4287 texthợp lý nha Trời hôm nay nhanh thế nhờ
+second4291 textrồi Thế thì cô trước khi vào lý thuyết
+second4294 textthì
+second4295 textcô chắc là cô phải giảng cái này cho mọi
+second4298 textngười cho không Tí nữa quay lại là sợ bị
+second4300 textcháy giờ mất rồi Ở đây nhá mọi người sẽ
+second4303 textthấy
+second4304 textnày get on booking thì đợi Côi chút cái
+second4310 textđề bài Người Ta Yêu cầu người ta mong
+second4312 textmuốn là trả ra 200 Ok đúng không thì
+second4314 textthay vì chúng ta nhìn bằng mắt thì chúng
+second4316 textta vào cái test này
+second4318 textnày các bạn mở vào cái này cho cô
+second4324 textnha các bạn check cái status ở đây là ví
+second4330 textdụ như ở đây người ta đang mong muốn là
+second4331 textstatus code là 200 thì các bạn Đây này
+second4333 textđây có rất là nhiều những cái Ờ cái cái
+second4337 textcode mẫu để cho các bạn dùng các bạn ừ
+second4342 textsau này các bạn sẽ làm automation cho nó
+second4344 textnha Làm auto cho cho cho api trên
+second4348 textpostman ấy và ví dụ như trong cái api
+second4350 textnày cô mong muốn là cái status code ấy
+second4352 textCái respon này Đây nó viết này à trong
+second4356 textnày Nó là một cái hàm và trong cái hàm
+second4358 textnày tôi mong muốn là nó lấy cái respon
+second4361 textnày trả về này phải có cái status là 200
+second4364 textthì cô thử gửi đi
+second4371 text[âm nhạc]
+second4372 textnha
+second4375 textđây mọi người sẽ nhìn vào cái test
+second4377 textresult này mọi người sẽ thấy là pass đó
+second4379 textlúc đấy mọi người không thể nhìn vào mắt
+second4380 textnữa hoặc là cái này này cái Delete của
+second4383 textmọi người
+second4384 textnày mọi người lấy cái mẫu đấy đi code và
+second4387 text200 và trong trường hợp này là người ta
+second4389 textyêu cầu là gì pass phải là 204 cơ đúng
+second4393 textkhông lấy ra dữ liệu thành công thì phải
+second4395 textlà 204 cơ
+second4400 textđó
+second4402 textok
+second4405 textRồi ok không mọi người đó thì ví dụ như
+second4408 textcái này này cô mong muốn là nó trả ra
+second4410 textphải 2004 nhưng mà đây cô gửi đi request
+second4413 textnày nó trả nó không trả ra 204 ô Sorry
+second4417 textcô để cái thay cả cái này nữa đó thì các
+second4421 textbạn sẽ thấy này Status code là mong muốn
+second4424 textlà 2004 nhưng mà nó trả ra
+second4426 textờ 405 chứ không phải 2004 thì mọi người
+second4429 textsẽ nhìn thấy cái test của mọi người khi
+second4431 textvăn ấy nó fail luôn ở đây
+second4436 textnha đó và tương tự những cái api khác
+second4440 textcác bạn sẽ vào đây các bạn check này cái
+second4442 textapi này thì người ta đang mong muốn
+second4444 textthành công là cái gì get a booking
+second4447 textdetail người ta đang mong muốn successed
+second4449 textthì sẽ là
+second4462 text200
+second4468 textget booking Đúng rồi người ta mong muốn
+second4471 texttrường hợp này 200 Ok thì ở đây các bạn
+second4473 textcũng điền cho cô là 200 nha
+second4477 texts request
+second4482 textnày
+second4492 textrồi
+second4496 textđó đây cái case này nó chả ra lỗi thì
+second4499 textcác bạn sẽ nhìn thấy nó đánh fail luôn ở
+second4501 textđây
+second4504 textnày rồi grp booking này qu booking người
+second4508 textta cũng mong muốn là trả ra cô xem là
+second4510 text201 hay
+second4514 text200
+second4517 text200 đó thì tôi cũng sẽ điền một cái
+second4520 textcheck ở đây mong muốn là trả ra 200 khi
+second4524 texttạo mố thành công thì khi nó thành công
+second4527 textcác bạn sẽ thấy này pass này đúng
+second4530 textkhông ở đây một cái check thì nó sẽ hiện
+second4533 text11 ví dụ đây là có hai cái hàm check
+second4535 textnày các bạn sẽ thấy này đó thì nó sẽ
+second4539 texthiển thị 22 thì mỗi cái này là một cái
+second4542 texthàm nha mọi người nha bên trong cái
+second4544 textfunction này này là một cái hàm thì nó
+second4546 textsẽ hiển thị dưới này nha
+second4549 textđó thì buổi Ngày mai mình sẽ học sorry
+second4553 textkhông phải buổi ngày mai buổi tiếp theo
+second4554 textmình sẽ học viết cho những cái check
+second4556 textkhác detail hơn ở bên trong này thì mình
+second4559 textsẽ viết sau còn về cơ bản thì mình sẽ
+second4562 textcheck và trong này nó có những cái
+second4571 textgì đó thì bạn sẽ thấy là pass ở đây nha
+second4576 textCòn trong trường hợp các bạn muốn tạo
+second4579 textmột cái trong trường hợp các bạn
+second4580 textvalidation đi Chẳng hạn như thế à với
+second4588 textcái login
+second4591 textnày Cái này gọi duplicate được cái ấy
+second4594 textkhông
+second4598 textnhỉ applicate Nhưng mà lại không có cái
+second4601 textthông tin cho người ta kỳ
+second4612 textcục
+second4627 textỪ ok
+second4628 textMaybe rồi Cô cảm ơn nha rồi thì ví dụ
+second4632 textnhư cái api này của các bạn là log in
+second4635 textsuccess các bạn đ tên là login
+second4638 textsuccess đó thì các bạn sẽ expect là cái
+second4642 textcủa bạn sẽ phải trả ra 200 Ok đúng không
+second4645 textRồi Ok Còn trong trường hợp mà cái login
+second4648 textcủa các bạn ấy các bạn test ra cho cái
+second4650 texttrường hợp là
+second4653 textlogin các bạn có test cas là login with
+second4659 textincorrect hoặc là
+second4663 textlogin Ok
+second4670 textincorrect
+second4672 textusername chẳng hạn như
+second4675 textthế
+second4678 textrồi cô Điền sai nha
+second4682 textờ viết được em
+second4684 textạ Nhưng mà nó sẽ hơi bí một cái là cô
+second4688 textkhông biết là cô dùng tiếng Việt ở trên
+second4689 textnày không cô chưa dùng bao giờ log in
+second4697 textvới biết là api nà à được đây
+second4702 textnày
+second4707 textusername không
+second4712 textđúng C xem nào có đây
+second4719 textnày đó thì trong cái trường hợp này các
+second4722 textbạn mong muốn là à cái cái cái status
+second4726 textcode của mình trả ra 400 đúng
+second4732 textkhông
+second4740 textđó Cô xem nà
+second4744 textin
+second4749 text400
+second4754 textỜ theo mọi người cái case này nó sẽ là
+second4758 textnhư thế nào đây cô đang login với
+second4761 textusername không đúng và mật khẩu không
+second4763 textđúng này à mật khẩu đúng nhưng username
+second4765 textkhông đúng này đúng rồi mình mong muốn
+second4768 text400 nhưng mà nó vẫn đăng nhập thành công
+second4770 textnày mọi người này À nó trả ra 200
+second4774 textnày đúng rồi thì nó sẽ là bấc mọi người
+second4779 textnha mọi người sẽ thấy luôn ở đây là à
+second4781 textkhi mình test này nó sẽ trả ra này thì
+second4783 textcác bạn sẽ thấy là à nó không trả ra
+second4785 textđúng như các bạn mong muốn thì các bạn
+second4787 textlố BC nha đó và khi mà ví dụ như là
+second4793 texttrong dự án của các bạn ấy các bạn làm
+second4795 texttest cas nó rất là detail Ờ automation
+second4799 texttest cas detail ấ thì thông thường thì
+second4800 textcác bạn sẽ tạo một cái folder cho cái
+second4802 textthằng login này
+second4804 textnày đó thì các bạn những cái test cas
+second4807 textliên quan đến login các bạn nhét hé vào
+second4810 textđây
+second4811 textnha mình sẽ có rất là nhiều testc
+second4813 textvalidation cho cái login ví dụ login với
+second4816 textusername size login với password size
+second4819 textlogin với username bỏ trống ví dụ Cô cho
+second4824 textcái trường hợp này là bỏ trống
+second4832 textđi đó
+second4834 textỜ đó thì những cái case bỏ trống thì các
+second4837 textbạn sẽ tạo những cái request khác nhau
+second4839 textcác bạn viết vào đây nó sẽ thành một cái
+second4841 texttập những cái test cas để các bạn check
+second4844 textnha hoặc là với get on booking các bạn
+second4846 textsẽ có những cái test K khác nhau thì các
+second4848 textbạn sẽ tạo những cái folder khác nhau và
+second4850 textcác bạn để những cái cái cái request
+second4852 textkhác nhau trong cái folder đấy để mình
+second4855 textquản
+second4856 textlý rồi và mọi người sẽ viết cái một chút
+second4859 textcái scrip test để check cái status rồi
+second4862 textbuổi sau mình sẽ có cái scrip test mình
+second4865 textcheck cái cái giá trị ở bên trong này ví
+second4868 textdụ như là tôi gửi đi một cái request như
+second4872 textthế này à với cái first name như thế này
+second4875 textlast name như th này và tôi expect cái
+second4878 textcái cái cái respon ấy nó trả ra đúng với
+second4881 textcả cái giá trị mà à tôi đã tạo ở đây thì
+second4884 texttôi sẽ làm như thế nào thì thay vì mình
+second4885 textnhìn bằng mắt đúng không Mình có cái
+second4887 texttest g hôm qua mình biết ấy tôi kiểm tra
+second4889 textlà cái first name ở đây nó phải giống
+second4890 textfirst name ở đây last name đây giống
+second4892 textlast name ở đây thì thay vì thế chúng ta
+second4895 textsẽ viết cái Script test ở trong này đó
+second4899 textthì mình sẽ không phải nhìn bằng tay nữa
+second4901 textà Sorry nhìn bằng mắt nữa mà hệ thống nó
+second4903 textsẽ check cho mình luôn ở trong đây
+second4906 textnha rồi
+second4908 textok mọi người có tạo được cái test check
+second4912 textcái ST t code
+second4915 textkhông Ừ ok zung tạo được nè Ok đó về cơ
+second4922 textbản thì mọi người cứ về mọi người thử
+second4924 textthực hành nha mọi người từ những cái này
+second4926 textmọi người breakdown ra thành từng những
+second4928 texttest cas Ví dụ như tôi login với
+second4930 textusername size mật khẩu siz username size
+second4934 textmật khẩu siz username trống hoặc là mật
+second4936 textkhẩu trống Hoặc là những cái test cas
+second4939 textGiống như mình hay làm ấy hoặc là nó
+second4941 textthiếu cả những cái cuộc cải thệ nó sẽ
+second4943 textnhư thế nào đúng không đó thì mình về
+second4945 textmình tạo ra những cái test cas khác nhau
+second4948 textvà mình tương tác với cả cái postmen rồi
+second4951 textlà test cho nó quen đi Rồi mình xem X là
+second4954 textmình sẽ phát hiện được ra những cái bức
+second4955 textnào của cái api này
+second4958 textnha cô thấy là rất là nhiều bấc
+second4964 textrồi Xong rồi thì chúng ta sẽ đi sang
+second4968 text[âm nhạc]
+second4970 textcái test cas cho cho phần Delete nha à
+second4975 textTại sao test cas cô lại viết test cas
+second4977 textcho Delete mà không biết testc cho
+second4979 textupdate bởi vì những cái test cas
+second4982 textvalidation cho
+second4984 textupdate thì nó gần giống với tạo mới nó
+second4989 textcó khác một cái nữa là cái thằng này là
+second4992 textmột cái ID này mình sẽ viết testc cho nó
+second4995 textvà cái automation với cả Cooky mình cũng
+second4998 textsẽ viết test g cho nó nha Thế thì hai
+second5001 textcái thằng này nó đều có những cái khác
+second5004 textđấy thì nó lại đều có trong cái Delete
+second5006 textthế nên là C sẽ viết cho cái Delete sau
+second5008 textkhi mình có cái test g cho Delete thì
+second5011 textmình giáp nó lại cả cái test cy tạo mới
+second5016 textvà Delete thì mình sẽ ra cái test của
+second5019 textphần update
+second5029 textđó Ok mọi người Mở cái file test
+second5040 textC chút nha cô Mở cái file test game Hôm
+second5043 textqua
+second5061 textra
+second5094 textngày hôm qua mình là tạo mới đúng không
+second5096 textqu new
+second5103 textbooking của mình hôm nay
+second5107 textlà
+second5121 textdelete
+second5129 textđó Ờ mọi người có viết cùng cô không hay
+second5132 textlà mọi người chỉ nhìn thôi đá mọi
+second5135 textngười Alo lớp mình ơi để cô biết là để
+second5140 textcô điều chỉnh cái tốc độ ấy nếu mà mọi
+second5142 textngười viết cùng thì cô Ok nếu mà mọi
+second5145 textngười viết cùng thì cô sẽ chờ để mọi
+second5147 textngười viết theo ạ Bởi vì các lớp mà cô
+second5149 textdạy thì cô
+second5150 textsẽ yêu cầu các có bạn viết cùng ạ để các
+second5154 textbạn quen tay không thì chờ đôi khi là
+second5157 textmình cứ nghĩ là thôi mai mình viết ngày
+second5158 textkia mình viết Nhưng mai ngày kia là
+second5160 textkhông biết là mai ngày kia của thời điểm
+second5162 textnào đúng không
+second5165 textĐó Ok Thế cô sẽ chờ nha Thì mình sẽ có
+second5169 textcái main function này hay main flow hay
+second5172 textmain gì đấy tù các bạn
+second5177 textnha Rồi
+second5179 textok sau đấy là mình sẽ có cái
+second5184 textrồi respon đúng
+second5191 textkhông Rồi sau đấy thì mình sẽ có
+second5194 textvalidation cho cái
+second5198 textheader đó ở đây nó không có cái body gì
+second5201 textgiống như cái thằng kia cả thì mình skip
+second5203 textnó nha Mình chỉ có cái validation cho
+second5206 textheader này validation thì mình có
+second5208 textvalidation cho cái part ID
+second5211 textnày
+second5215 textID này và cái validation của mình có cái
+second5218 textCook key
+second5221 textnày validation của mình có cái
+second5224 textauthorization
+second5227 textnày
+second5231 textđó mọi người viết vào cho cô
+second5241 textnhá
+second5311 textỜ thông thường những cái ở đây nó không
+second5314 textdefine ra trong cái trường hợp là anit
+second5317 textvà trong cái trường hợp mà cái Token của
+second5320 textmình nó không
+second5323 textkhông không còn valid nữa thì thường thì
+second5327 textnó sẽ là những cái thường thì nó sẽ sẽ
+second5330 textphải trả ra cái lỗi 401 Un r ạ Nó không
+second5333 textphải
+second5343 textlà mọi người viết xong chưa Mọi người
+second5352 textơi rồi
+second5359 textOk rồi main function ở đây của chúng ta
+second5362 textchúng ta chỉ có gửi duy nhất một
+second5368 textcái request mà nó không có cái body gì
+second5371 textcũng không có cái validation không có
+second5372 textcái trường option Hay là chỉ có require
+second5375 textkhông có cái optional nào mà require thì
+second5377 textchắc chắn là lúc nà phải có đúng không
+second5379 textRồi thế thì mình chỉ có mỗi cá cas
+second5381 textsending
+second5388 textrequ sending requ
+second5395 textto remove a booking thì thế nào là valid
+second5400 textrequest thì các bạn cho người ta biết ở
+second5402 textđây ví dụ như là cái
+second5405 texthttp
+second5408 textmethod nè part là gì
+second5412 textnày thì part của các bạn nó sẽ là cái
+second5415 textnày hoặc một cái booking
+second5418 textID có tồn tại
+second5421 textnha các bạn để cái ngặc vào đây để
+second5428 textcòn rồi Tiếp theo nó là cái Cookie này à
+second5433 texthead của các bạn của Cooky
+second5451 textnày header của mình có Cooky và header
+second5454 textcủa mình có authorization
+second5458 textnha các thông tin yêu cầu là phải có đủ
+second5462 textlà phải có đủ nha đó thì các bạn sẽ viết
+second5465 textvào
+second5478 textđây và trong trường hợp này expected res
+second5481 textcủa mình sẽ là status C của tôi người ta
+second5487 textbảo là thành công là 204 đúng
+second5491 textkhông
+second5493 text4
+second5496 textrồi và nó không có cái Mage gì cả Thực
+second5499 textra thì cô nghĩ là xóa xong nó chả ra 204
+second5503 textvà
+second5505 text[âm nhạc]
+second5506 textnó
+second5509 textsuccess su gì đấy
+second5513 textđó để cho mình biết là à Nó
+second5518 textcó xóa thành công hay
+second5522 textkhông rồi sẽ có những cái api kiểu như
+second5525 textthế này này các bạn
+second5528 textnày
+second5529 text[âm nhạc]
+second5533 textnó bỏ đi cái này nó lại phải liên quan
+second5536 textđến log in là chắc là hơi phức tạp một
+second5541 texttí rồi Mọi người viết vào giúp mình
+second5560 textnha rồi mọi người biết Xong chưa Rồi nếu
+second5564 textmọi người xong rồi mình sang cái case
+second5565 texttiếp theo nha à respon ở đây respon của
+second5567 textnó nó không có cái gì cả ờ mọi người chờ
+second5570 textcô một chút cô xuống cô mở cửi nhá
+second5601 texta
+second5666 textOk x mọi
+second5669 textngười tiếp theo chúng ta phân tích cái
+second5672 textrespon nha bởi vì cái respon của mình ấ
+second5674 textỞ đây nó không có cái gì đặc biệt cả nó
+second5676 textkhông giống như cái thằng đây nó không
+second5678 textkhông giống như cái thằng Delete Sorry
+second5681 textnó không giống với thằng tạo mới hay
+second5683 textthằng update đúng không nó không có cái
+second5685 textkiểu dữ liệu cũng không có cái thông tin
+second5687 texttrả về ngoài một cái message Maybe là có
+second5691 textthể có thế nên là chúng ta sẽ gộp nó
+second5694 textluôn ở trong cái thằng này
+second5707 textnha
+second5709 textà Sorry cô nhầm mình đang làm cho cái
+second5715 textDelete
+second5718 textrồi cảm ơn Quyên
+second5720 textNha tiếp theo cái validation cho part ID
+second5724 textấ thì mình sẽ có là cái part trong cái
+second5728 textpart Nó có cái ID thì cái ID mà nó là
+second5732 textcái ID đúng thì nó đ bao gồm trong cái
+second5734 textnày rồi Thế nên là mình sẽ không viết
+second5736 texttestc cho trường hợp là send request với
+second5739 textcái part ID valid đúng không Bởi vì nó đ
+second5743 textinclude trong đây rồi thì mình sẽ
+second5745 textvalidation cho những cái trường hợp part
+second5747 textID nó không tồn
+second5750 texttại để cô xem nhu cầu Nó là tạ ID
+second5755 textPhả
+second5758 textỪ cái này
+second5761 textthì cũng
+second5764 texthơi cái requirement này cô thấy cũng hơi
+second5767 textlạ number nghĩa là nó là kiểu số bao gồm
+second5769 textcả dấu
+second5770 textphẩy mà thường thì ID nó phải là kiểu
+second5774 textinteger cơ Ok Để đi quay và rồi Thế thì
+second5780 textmình sẽ có những cái test cas tương ứng
+second5782 textnha nó sẽ có hai hai kiểu kiểu thứ nhất
+second5787 textlà cái ID của bạn ấy Nó là kiểu number
+second5790 textnhưng bạn gửi nó kiểu chữ nha Thì trước
+second5793 textkhi nó check là à Cái dữ liệu của bạn có
+second5796 texttồn tại hay không tồn tại à trước khi
+second5798 textngười ta trả ra cái not file đây
+second5802 textnày 404 not file ấy không tìm
+second5805 textthấy đây ví dụ cái trường
+second5810 texthợp
+second5818 textnh
+second5828 textđây một cái không một cái nó bị xóa
+second5834 textrồi ch tìm một cái cái nào nó bị xóa thì
+second5838 textnó sẽ trả ra nó f nghĩa là tôi không tìm
+second5840 textthấy
+second5843 textnhì nha Đây là khi mà cô nhập kiểu
+second5846 textinteger nghĩa là một cái kiểu đúng cái
+second5848 textđịnh dạng của nó thì nó sẽ thông báo là
+second5851 texttôi không tìm thấy nhưng trong trường
+second5853 texthợp cô không nhập kiểu Ừ đúng định dạng
+second5855 texttr của nó ấy thì trước đấy nó phải trả
+second5858 textra cho mình nó phải validation là cái
+second5860 textcái thằng này của các bạn này nó đúng
+second5862 textkiểu hay chưa thì lúc đấy nó phải trả ra
+second5864 text400 mới đúng đó thì cái thằng này nó
+second5868 textđang không dep họ đang không validation
+second5870 texttype kiểu của của cái dữ liệu này nha
+second5873 textthì các bạn có thể LB trong trường hợp
+second5875 textnày nha Họ ignore luôn cái kiểu là à Tôi
+second5878 textcheck cái thằng này nó có đúng kiểu tôi
+second5880 textmố tả hay không thì nó là logb nha chứ
+second5883 textkhông phải là
+second5885 text404 Ok không mọi người thế thì cô sẽ
+second5890 textviết test cas đầu tiên để check cho cái
+second5893 texttrường hợp là dữ liệu
+second5895 textỪ cái ID này nó đúng kiểu nhưng mà Một
+second5899 textlà nó bị xóa rồi và hai là TN tại
+second5902 textnhá sending
+second5911 textrequest
+second5913 textbooking
+second5915 textID
+second5917 text[âm nhạc]
+second5921 textin un
+second5927 textexisting booking
+second5930 textID
+second5934 textin the
+second5936 textsystem nha Thì lúc này cô mong muốn là
+second5940 textstatus code của nó và các bạn để ở đây
+second5943 textlà cái booking ID nó
+second5945 text[âm nhạc]
+second5947 textlà nó là nó là kiểu số nha kiểu gì đây
+second5951 textnó không hề tồn tại chẳng hạn như thế
+second5953 textthì lúc này cô mong muốn
+second5956 textstatus là 404 not
+second5960 textfile
+second5965 textà là tôi không tìm thấy đúng không Ví dụ
+second5969 textnhư là một người không tồn tại trong hệ
+second5972 textthống thì người ta sẽ không tìm thấy
+second5976 textvà shows
+second5981 textmeaningful
+second5983 textaromage nĩ là một cái thông báo lỗi có
+second5986 textnghĩa
+second5988 textnha ừ cái đoạn mà chích kiểu mọi người
+second5992 textcó hiểu không mọi
+second6009 textngười rồi cái thứ hai nữa là khi các bạn
+second6014 textgửi đi một
+second6016 textcái các bạn xóa hai lần một cái một cái
+second6020 textcái gì nhỉ một cái booking ID thì họ
+second6024 textphải test à tôi xóa xong rồi tôi xóa lần
+second6026 texthoặc là tôi xóa một cái booking ID đã
+second6028 textxóa rồi thì phải Không xóa thành công
+second6030 textđúng
+second6042 textkhông bing
+second6046 textID đó thì nó sẽ thông báo là nó không
+second6049 texttìm thấy nha
+second6060 textMọi người viết vào giúp cô
+second6080 textnha
+second6095 textbự này
+second6110 textthế
+second6135 textỜ mọi người biết xong test g
+second6140 textchưa
+second6183 textrồi ok cas tiếp theo là mình sẽ gửi đi
+second6187 textmột cái request với cả cái cái ID này Nó
+second6193 textlà một cái ID nó không đúng định dạng
+second6195 textnãy giờ là mình dùng đúng định dạng nha
+second6197 textgiờ là mình không đúng với cả cái T kiểu
+second6200 textdữ liệu
+second6205 textĐúng rồi à Thì như nãy mình nói về cái
+second6208 textbusiness ấ về cái test cas của cái cái
+second6211 textcái edit cái update booking ấ thì nó sẽ
+second6216 textcác bạn viết lại cái những cái test cas
+second6218 textcủa cái thằng này này tạo mới đúng không
+second6220 textBởi vì khi tạo mới một cái gì đấy hoặc
+second6222 textlà khi sửa cái gì đấy thì gần như gần
+second6227 textnhư 100 ph thì là cái cái validation nó
+second6230 textsẽ giống nhau thế nên test cas cho của
+second6232 textcái thằng của cái thằng tạo mới và của
+second6235 textcái thằng update ấy thì nó sẽ giống nhau
+second6238 textnha nó sẽ thêm một cái phần nó khác đấy
+second6241 textlà cái ở cái thằng update nó có cái ID
+second6244 textnữa cái part của nó ID thì cái part ID
+second6246 textthì mình sẽ validation giống như mình
+second6247 textđang làm đây này đó với cả cái Cooky với
+second6251 textcả authorization thì mình đã viết ở đây
+second6253 textThế nên là cái thằng update á thì N các
+second6255 textbạn kết hợp cái test cas của delete và
+second6258 texttest cas của cái thằng tạo mới nha
+second6267 textbooking
+second6269 textID
+second6272 textin
+second6274 textstream time nghĩa là à Nó là kiểu string
+second6278 textthì cái booking ID của các bạn nó sẽ có
+second6281 textthể nó sẽ là trường hợp
+second6290 textnày đó hoặc là viểu
+second6293 textnày đó thì lúc này à hệ thống nó sẽ
+second6297 textcheck là à Cái thằng này này Đầu tiên nó
+second6300 textphải check kiểu trước nó phải check là à
+second6302 textCái dữ liệu nó đúng kiểu hay không đúng
+second6304 textkhông Thì đúng kiểu thì nó mới chạy vào
+second6307 texttrong cái hệ thống thì ví dụ như chúng
+second6308 textta tưởng tượng là chúng ta đi đến ngân
+second6311 texthàng đi người ta bảo là em viết cho chị
+second6314 textcái mã ngân hàng của các em ở đây đúng
+second6316 textkhông Thì em viết cho người ta cái mã
+second6318 textngân hàng người ta phải check là à cái
+second6320 textmã ngân hàng của bạn ấy chẳng hạn thay
+second6322 textvì các bạn viết s cái số tài khoản của
+second6325 textbạn ấ thì đáng lãi là số đúng không thì
+second6327 textcác bạn viết toàn chữ vào đấy thì cái
+second6328 textchị nhân viên chị sẽ bảo là em ơi Viết
+second6331 textlại đi sai rồi đúng không thì tương tự
+second6333 textnhư thế cái hệ Ờ bạn bạn nào đang đang
+second6337 textbật mic tắt mic cô
+second6349 textvới
+second6352 textRồi ví dụ như các bạn vào ngân hàng đi
+second6354 textthì các bạn viết cái số tài khoản ngân
+second6356 texthàng của bạn Sai các bạn viết là nó thay
+second6358 textvì là toàn số thôi các bạn viết chữ số
+second6360 textrồi hầm mà lng nhằng linh tinh ấy thì
+second6363 textcái trị nhân viên ngân hàng chị bảo là
+second6365 textem viết sai rồi đúng không đấy Người ta
+second6367 textchưa cần đi vào hệ thống người ta kiểm
+second6369 texttra thì người ta đã nói luôn là các bạn
+second6370 textSai rồi thì tương tự như thế thì khi mà
+second6372 textcác bạn gửi đi một cái booking ID ấ mà
+second6375 textnó đ không đúng kiểu đúng không Thì hệ
+second6378 textthống nó sẽ phải trả ra các bạn là B
+second6381 textrequest rồi đúng
+second6398 textkhông sẽ show ra Aom messis là booking
+second6406 textID
+second6408 textmust in
+second6412 textnumber
+second6414 textỜ
+second6416 textrồi đó thì sau khi mà các bạn đây là cái
+second6420 texttrường hợp các bạn Nhập sai nha Thế còn
+second6422 texttrong trường hợp là đây các bạn Nhập
+second6423 textđúng thì nó thấy là à cách trị ngân hàng
+second6426 textnhân viên ngân hàng ấy à thấy là cái cái
+second6428 textcái mã ngân hàng của bạn đúng là kiểu
+second6429 textkiểu kiểu số rồi thì người ta mới đem
+second6431 textvào hệ thống người ta mới đi kiểm tra
+second6433 textxem là à có tồn tại hay không có T có
+second6436 texttìm thấy hay không đúng không Nếu mà tìm
+second6438 textthấy thì là mình sẽ xóa thành công còn
+second6440 textkhông không tìm thấy thì người ta bảo là
+second6441 textnot f nghĩa là không tìm thấy đúng không
+second6444 textThì nó cũng rất là giống với cái tự
+second6446 textnhiên của mình thôi nha Ờ chỗ này mọi
+second6450 textngười có bị khó hiểu
+second6453 textkhông Ừ chỗ này mọ người có hiểu nhở Cái
+second6459 text400 với cả 404
+second6464 textnày Ok nếu mà mọi người không nói gì thì
+second6467 textmặc định là mọi người đều hiểu
+second6469 textnha
+second6473 textrồi Mình đã có testc không đúng kiểu rồi
+second6476 textlà không tồn tại rồi đúng không Rồi tiếp
+second6480 texttheo là đến cái Cooky của mình Cooky với
+second6484 textcả cái thằng thằng thằng thằng
+second6487 textauthorization ấy thì nó đang dùng giống
+second6491 textnhau về cái cách sử dụng thế nên là test
+second6495 textcas của nó cũng xêm xêm nhau nha Thì
+second6496 textmình sẽ viết cho cái cái Cooky rồi xong
+second6499 textmình sẽ dùng lại với các cái thằng
+second6501 textauthorization này ở bên dưới thì đầu
+second6504 texttiên là cái đầu tiên là cái Cooky của
+second6506 textmình ấy nó mình sẽ phải viết là trong
+second6508 texttrường hợp
+second6510 textlà c m ra
+second6518 textđây mình làm với Cooky trước nha đầu
+second6522 texttiên là mình gửi đi request với trường
+second6524 texthợp là mình không có cái Cooky này thì
+second6526 textnó có thành công hay không ở đây nó viết
+second6528 textlà require đúng không Nếu mà mình không
+second6530 textcó cái Cooky thì chắc chắn nó sẽ trả ra
+second6532 textlỗi đúng không Rồi cái trường hợp thứ
+second6534 texthai là tôi có cả cái này nhưng mà cái
+second6536 textToken của tôi nó bị thiếu đúng không Rồi
+second6541 textcái Token của tôi nó
+second6542 textbị thiếu cái này là không đúng cú pháp
+second6546 textrồi đúng không Thì cũng phát sinh lỗi
+second6548 textđúng không Rồi cái Token này của tôi ấ
+second6551 textcủa mình ấ là cái Token đã bị hết hạn
+second6554 textrồi rồi Token này của mình nó có nhưng
+second6558 textmà nó lại không phải là cái chỗi Token
+second6559 textđúng đúng không đó thì nó sẽ phát sinh
+second6564 textlỗi khi mà mình sử mình mình mình mình
+second6566 textmình mình gửi những cái chuỗi Token Sai
+second6568 textnhư thế rồi Hoặc là trong trường hợp là
+second6571 textcác bạn đã log out rồi thì cái chỗi
+second6574 textToken này của các bạn Tuy là chưa chưa
+second6575 texthết cái session đúng không Đấy chưa hết
+second6578 texthạn sử dụng nhưng mà các bạn logout rồi
+second6580 textThì cái này này cũng sẽ bị hết hạn không
+second6583 textdùng được nữa Hoặc là trong cái trường
+second6585 texthợp mà các bạn log in nhiều lần các bạn
+second6587 textgửi Ví dụ cô gửi cái login này đâ ta
+second6591 textlogin đâu đây ví dụ cô gửi
+second6594 text1
+second6596 text2
+second6598 text3 thì cái này này mới là cái cuối cùng
+second6600 textvà cái cuối cùng mới là cái valid mà cô
+second6603 textgửi đi cái với cả cái chuỗi Token mà
+second6605 textkhông phải cái cuối cùng ngay trước đấy
+second6607 textthôi cái thứ hai cái thứ nhất gì đấy thì
+second6610 textnó cũng phải báo lỗi nha nó cũng không
+second6612 textdùng được trong trường hợp đấy nha đó
+second6615 textthì mình
+second6618 textsẽ rồi
+second6625 textrồi nó sẽ hơi nhiều nhiều case một chút
+second6628 texttrường hợp đầu tiên đấy là sending
+second6632 textrequest with Missing cái Cooky Cái này
+second6635 textgọi là bên này gọi là
+second6638 textCooky parameter
+second6644 textnha
+second6645 textsending
+second6649 textrequest
+second6657 textà khi
+second6670 textparamet
+second6675 textrồi Mọi người viết là
+second6679 textnha
+second6688 textrồi nhanh th
+second6694 textnhá rồi
+second6697 textỜ tiếp theo
+second6701 textnha Á thêm
+second6703 textcái
+second6705 textrồi Vậy thì trong trường hợp Thứ hai này
+second6708 textcô có parameter nhưng mà cô thiếu thếu
+second6710 textcái cái cái cái cái chỗi
+second6725 textToken
+second6736 textMissing rồi và tiếp là sending request
+second6747 textMissing asset
+second6751 textToken các bạn để nhớ để cái cái test gọi
+second6756 textlà cái gì nhỉ Cái
+second6762 texttest Missing Hoặc là các bạn bỏ uncheck
+second6765 textđi cho nó dễ uncheck
+second6769 texton
+second6774 textđó Còn đây là x Cooky của các bạn thì là
+second6777 textCooky giá trị Cooky của các bạn nó sẽ là
+second6780 textchỉ là
+second6783 textToken bằng đó còn cái dưới này của các
+second6786 textbạn
+second6787 textlà các bạn thiếu cả cái Token mà các bạn
+second6790 textchỉ có một cái chuỗi số thôi chẳng hạn
+second6792 textnhư thế này đó thì khi đấy thì các bạn
+second6795 textcó thể hiểu lar cái các bạn đang nói là
+second6799 textgì
+second6818 textgiải chỗ ăn check à Ăn check thì chắc là
+second6821 textchẳng có cái gì nữa Nó khá clear rồi cò
+second6825 textbạn nào mà không clear thì viết thêm mà
+second6827 textBởi vì nó không có cái gì cả Bởi vì khi
+second6829 textmà các bạn ăn check thì thì Phúc sau nó
+second6830 textchả có cái gì nữa cả nó disable luôn cả
+second6833 textcái này rồi đúng
+second6859 textkhông
+second6884 textrồi
+second6889 textok
+second6891 textrồi cái trong trường hợp tiếp theo là
+second6893 textcái này của các bạn có nhưng mà nó lại
+second6895 textkhông đúng đúng
+second6898 textkhông
+second6904 textSend
+second6905 textin
+second6912 textassess đó thì cái của các bạn sẽ là như
+second6916 textnày bằng xong trong đây là chuỗi này
+second6919 textincorre
+second6922 textaccess
+second6927 textst đó chỉ là cái cách trình bày để các
+second6930 textbạn hiểu hơn cái cái này thôi Test data
+second6933 textcủa các bạn
+second6949 textthôi
+second6991 textrồi xong chưa mọi người tiếp theo là
+second6994 textmình đến cái trường
+second6995 texthợp cái này nó hết session
+second7000 textnha sending
+second7005 textrequest un exp thì cái hết session người
+second7009 textta sẽ dùng dùng cái từ XP nha
+second7013 textÀ
+second7017 textToken đ Cooky của bạn sẽ viết như th này
+second7021 textvà
+second7023 text[âm nhạc]
+second7026 textxile đó một cái chỗi Token nó đã bị hết
+second7038 texthạn
+second7041 textmới viết Delete mà một đống cây rồi mà
+second7044 textviết cả page thì có cách nào nhanh hơn ờ
+second7048 textcái api này nó đâu có chia theo page em
+second7051 textđúng không api nó riêng một page có thể
+second7053 textlà có rất là nhiều api mình chia thành
+second7055 texttứng api 1 ví dụ như là cái
+second7058 textpage các bạn vào shope các bạn sẽ thấy
+second7061 textlà cái page đ cô nhớ là cái page detail
+second7064 textđi thì nó sẽ có là content detail của
+second7068 textmột cái đấy rồi là là có cái review cho
+second7071 textnó đúng không Thì nhìn sơ sơ qua đã thấy
+second7074 textcó hai api khác nhau rồi Một là cái là
+second7076 textget
+second7077 textdetail get detail một cái sản phẩm và
+second7080 textmột cái là get list comment đúng không
+second7084 textĐó đấy là mình mới nhìn sơ sơ qua thôi
+second7088 textcòn chưa biết là bên trong nó còn Behind
+second7090 textThe Scene gì nữa Thế mình không không
+second7092 textviết theo từng cái ấy
+second7095 textnha Ừ cô không là nó sẽ có
+second7103 textcái có đúng rồi không cô không nghĩ là
+second7106 textnó có cái cách nào viết nhanh hơn đâu
+second7108 textnếu mà nhanh hơn thì các bạn viết dưới
+second7111 textdạng checklist ấy mà mình viết checklist
+second7114 textKhi mà mình đã thực sự là mình làm quen
+second7116 textrồi còn mình chưa quen thì mình cứ nên
+second7119 textchịu chấp chịu chấp nhận là mình phải
+second7121 textviết chậm
+second7123 textthôi rồi Đây là mình mới chỉ là manual
+second7127 textcheck cái business thôi mình chưa nói
+second7129 textnói đến việc là mình check Security hay
+second7132 textlà performance bởi vì Security
+second7134 textperformance người ta làm rất rất nhiều
+second7136 texttrên api
+second7138 textnha Ok Nào tiếp mình đến với cả cái x
+second7142 textToken nha Cái x Token này thì ở trong
+second7145 textđây người ta không nói là sau bao nhiêu
+second7147 textphút Thế thì các
+second7149 textbạn các bạn comment vào ở đây là các bạn
+second7153 textcần phải hỏi cái chị Ba xem là hay là
+second7157 textcái anh dep bên mình ý đang để cái
+second7160 textbusiness là bao nhiêu phút cho cái Token
+second7164 textnha to
+second7168 textconfirm hay
+second7173 textlà
+second7178 textduration session nha Chúng ta cần phải
+second7181 textbiết thì mới biết là sau bao lâu nó mới
+second7183 textexp
+second7184 textđược after
+second7188 textx đó mình phải biết được khoảng bao
+second7191 textnhiêu phút rồi Tiếp theo là à Cái chỗi
+second7197 texttoc này của mình logout rồi đúng không
+second7200 textThì cái này nó sẽ bị nó sẽ bị
+second7203 textinvalid sending
+second7207 textrequest
+second7210 textwith invalid
+second7213 textaccess to
+second7218 textby
+second7220 textB
+second7224 textuser đó và một cái nữa
+second7229 textlà sending
+second7233 textrequest
+second7238 textwith
+second7244 textinvid the not
+second7247 textl
+second7248 textToken If user log in
+second7254 textmultiple times Nếu mà trong trường hợp
+second7256 textlà người
+second7258 textta login nhiều lần thì nó sẽ generate ra
+second7261 textnhiều cái chỗi Token đúng không Và mình
+second7263 textsẽ phải dùng cái không phải cái cuối
+second7265 textcùng thì nó sẽ không thành công đúng
+second7267 textkhông Vậy thì mình sẽ có cái test g là
+second7269 texttôi dùng cái cuối cùng sending
+second7275 textrequest the
+second7278 textlatest
+second7291 textà access
+second7295 textto If user
+second7300 textl In multiple
+second7307 textTime đó thì và và cái cái lece này thì
+second7311 textmọi người sẽ mong muốn là nó thành công
+second7312 texthay là không thành công nhỉ mọi người
+second7313 textnhỉ status bao nhiêu Mọi người
+second7318 textơi l Mình ơi trong trường hợp cô dùng
+second7322 textcái asset Token Cuối cùng thì nó sẽ
+second7324 textthành công hay không thành
+second7326 textcông
+second7330 textAlo 2004 các bạn nhầm
+second7333 textrồi No content
+second7337 textnha đó Thì bởi vì cái này là cây sắc xit
+second7341 textđúng không đầu hai đúng không Chúng ta
+second7343 textcho lên
+second7345 texttrên đó còn những cái un suit thì chúng
+second7351 textta đẩy xuống dưới rồi Thế là tạm thời là
+second7354 textchúng ta hết
+second7360 textnha lockout này hết hết session này rồi
+second7367 textlà cái gì nữa ta
+second7370 textrồi
+second7373 textOk
+second7376 textrồi Mọi người viết và Nha và trong
+second7379 texttrường hợp này cái thằng thông thường
+second7381 textnhững cái lỗi liên quan đến Cooky ý thì
+second7383 textnó sẽ trả ra 403 forbidden nha Còn những
+second7386 textcái mà liên quan đến authorized ấy thì
+second7388 textnó sẽ trả ra 401 unauthorized thì cái
+second7392 textforbidden với cả cái 401 mình không thấy
+second7394 textnó Định nghĩa ở đây thì việc của chúng
+second7396 textta là chúng ta biết thế thôi nhưng chúng
+second7398 textta vẫn phải FM lại
+second7402 textvới mình có Follow để suy ra những cas
+second7405 textđó không hay dựa vào kinh nghiệm test
+second7407 textnhề lần
+second7410 textà Nói như nào nhỉ Thực ra thì mình sẽ
+second7413 textphải collect thông tin từ rất là nhiều
+second7416 textnhững cái tài liệu hay là trong quá
+second7417 texttrình test nó một phần là kinh nghiệm ấy
+second7419 textvà thứ hai nữa là chúng ta sẽ phải học
+second7421 texthỏi về những cái đồng nghiệp của của
+second7423 textmình như cô và cô cũng học hỏi rất là
+second7425 textnhiều từ đồng nghiệp của mình trong cái
+second7427 textQuá trình mình đi làm thì để phát triển
+second7429 textthì đồng nghiệp của mình chắc là những
+second7432 textngười thầy của mình đó Thế nên là những
+second7435 textcái mà mình có thì một là mình phải
+second7437 textcollect từ cái cái kiến thức mình Build
+second7440 textdần dần sau đấy là từ đồng nghiệp của
+second7442 textmình à Hôm nay họ viết cái case này Tại
+second7444 textsao mình không nghĩ ra nhỉ thì lần sau
+second7446 textmình lại viết mình bổ sung V test cas
+second7448 textcủa mình đúng không Mình học từ những
+second7450 textcái đấy chứ không có chứ còn cái tài
+second7452 textliệu api ấ nó không có detail và nó
+second7456 textkhông có được chăm chút như cái business
+second7459 textrequirement nha bởi vì nó cái này nó
+second7461 textthiên về tài liệu kỹ thuật còn business
+second7465 textthì nó là thiên về tài liệu any sử dụng
+second7467 textnên nó được tră chút nhiều hơn đó ok
+second7471 textchưa mọi người thì còn cái 403 for đề đ
+second7475 textmột chút nha cái status này
+second7478 textnày
+second7483 text403 và nó sẽ trả ra cái
+second7488 textanis
+second7489 text[âm nhạc]
+second7494 textmining message nh cho những cái trường
+second7498 texthợp
+second7504 textnày đó thì các bạn cần confirm lại ở đây
+second7508 textnó không mô tả thì tất cả những cái mà
+second7509 textmình cần confirm thì mình phải confirm
+second7511 textlại với ba một cái nữa các bạn cũng góp
+second7514 textý h ba là cái ID thì chẳng bao giờ có
+second7518 textcái chuyện ID có mã là
+second7520 text1,25 cả hay 1,2 1,3 cả đúng không Mà ID
+second7524 textthường nó là
+second7526 textsố integer nha thì nên là cái này chắc
+second7530 textlà anh de nào đấy cần define lại
+second7534 textnha đó thì những cái mà mình thấy trong
+second7536 textquá trình mình làm á mình sẽ phải góc ý
+second7539 textlại nha V những cái
+second7542 textnày đó Thiếu cái status code trong những
+second7545 textcái trường hợp sai rồi còn cái thằng
+second7547 textauthorization nó cũng T tương tự nhưng
+second7549 textmà trong trường hợp này thì chúng ta sẽ
+second7552 textphải trả ra 401
+second7561 textnha 401 trong trường hợp này nó sẽ là
+second7566 textun viết
+second7575 texthoa
+second7578 textđó
+second7580 textđấy bởi vì cái cái cái status code của
+second7583 textnó cũng là authorize mọi người ạ Chứ
+second7585 textkhông phải un
+second7586 textout nên là baby nó sẽ confuse rất là
+second7590 textnhiều làm cho n bị
+second7593 textdối đúng
+second7596 textkhông Rồi Ok thế thì cái phần update của
+second7600 textcác bạn ấy update của các bạn cái test
+second7603 textupdate này về business mình chia ra
+second7606 textthành hai phần nha Về business
+second7612 textỜ nó sẽ có những cái này
+second7616 textrồi check in check out rồi là những cái
+second7619 textkiểu string này require những cái trường
+second7621 textname require này first name last name
+second7623 textrequire thì nó sẽ giống y như cái test
+second7626 textcas mà các
+second7628 textbạn viết cho cái phần tạo mới đúng không
+second7632 textVà Ngoài ra cái thằng này nó còn có cái
+second7636 textid id thì các bạn sẽ verify giống viết
+second7639 textSK giống như cái thằng này ID ở đây nha
+second7641 textvà ngoài ra thì nó có cái Cook key và
+second7645 textcái authorization thì nó chính là cái
+second7647 textphần này đúng không đó thì nó sẽ là gộp
+second7650 textcủa hai cái thằng kia à Ngoài ra thì sẽ
+second7652 textcó một cái case nữa sau khi mà chúng ta
+second7654 textxóa thành công đúng không thì chúng ta
+second7656 textsẽ không tìm thấy
+second7659 textcái cái cái cái cái booking của chúng ta
+second7662 textở trên cái
+second7664 textỜ cái get on với cả get detail booking
+second7667 textđúng không
+second7669 text[âm nhạc]
+second7674 textverify cái booking
+second7678 textID That is
+second7683 textdeled on cái cái gì nh trong
+second7692 textcái
+second7694 textbooking
+second7697 textrequ đó Và trong cái get
+second7708 textdetail
+second7710 textget
+second7712 textdetail
+second7717 textbooking đó thì với cái get thì mình nó
+second7721 textsẽ trả ra một danh sách tất cả các
+second7723 textbooking và trong trường hợp này thì
+second7724 textchúng ta sẽ
+second7727 textkhông status này code này là 200 Ok này
+second7732 textđúng không Bởi vì nó và nó sẽ
+second7735 textkhông it
+second7738 textdoes not
+second7741 textReturn
+second7743 textthe booking mà đã bị
+second7749 textxóa Đúng không Nó vẫn trả ra một danh
+second7753 textsách tất cả các booking Nhưng cái
+second7755 textbooking nó bị xóa thì sẽ không trả ra
+second7756 textđúng không Trong trường hợp này thì nó
+second7758 textsẽ trả ra 404 not
+second7761 textfile bởi vì cái này mình đang gọi đến
+second7764 textchính xác mà cái booking đấy rồi nó sẽ
+second7766 texttrả ra là nó f và It
+second7770 textshows
+second7774 textmeaning
+second7779 textMage đó thì not f may các bạn cũng hiểu
+second7783 textrồi đúng không not file nghĩa là một cái
+second7786 textbooking ID giống như kiểu một cái ông
+second7788 textông đã đăng xuất Khả trái đất rồi ý đúng
+second7790 textkhông Thì bây giờ mình lại đi lên phường
+second7793 textMình bảo là lấy cho em thông tin của anh
+second7795 textsếp nào đấy trên phường lấy cho anh
+second7797 textthông tin của cái cái mã căn cước này mã
+second7800 textcăn cước chính là cái ID này này đó thì
+second7803 textcái chị nhân viên trên phường chị ấy vào
+second7805 textchị tìm chị ấy bảo là not f em không
+second7808 textthấy đúng không Bởi vì mình đã xóa rồi
+second7810 textđó ok không mọi người đó thì đó là những
+second7813 textcái test cas Cơ bản mình có thể defile
+second7815 textđược và Maybe đâu đấy thì cô cũng m
+second7819 textđúng không và Maybe các bạn sẽ có những
+second7821 textcái test khác thì mọi người cứ bổ sung ở
+second7823 texttrên group lớp nha đó thì cô sẽ gửi lại
+second7826 textcho lớp mình cái file
+second7836 textnày group ở trên Zalo nhá bạn nào gửi
+second7839 textgiúp cô
+second7841 textvới hôm qua các bạn kết bạn với cô nhưng
+second7844 textmà không cô thấy khá là nhiều bạn kết
+second7847 textbạn nhưng mà các bạn không không Chat
+second7849 textlại với cô cô cũng không biết là
+second7852 textà
+second7858 textbooking Ừ cô cô có đọc được nhưng mà cô
+second7862 textkhông chat được trên đấy Cô không phản
+second7864 texthồi được nên là bạn nào gửi lên cho cô
+second7867 textcòn hôm qua các bạn cá kết bạn với cô ở
+second7869 texttrên Facebook
+second7871 textạ Nhưng không nhắn với cô mà hôm qua
+second7874 textnhiều người nhn à Kết bạn quá Cô không
+second7876 textkhông không biết là bạn nào với bạn nào
+second7878 textthì nh các bạn rồi thì bạn nào đấy
+second7881 textDownload xong rồi gửi lại trên Zalo giúp
+second7884 textcô
+second7885 textnha rồi lớp mình có ai có câu hỏi gì với
+second7888 textcô nữa
+second7893 textkhông
+second7896 textà Facebook của Cô à cô stop share nha
+second7900 textrồi Nếu nó mình không có câu hỏi gì thì
+second7902 textbuổi học hôm nay mình sẽ dừng ở đây nha
+second7907 textô
+second7909 textstop record
+second7911 textnày
+
+
+GPT-4o Mini
+Tóm tắt
+
+Video này là bài học về các API cần xác thực để người dùng có thể truy cập, nêu bật khái niệm authorization và các phương pháp xác thực người dùng. Nội dung bao gồm việc phân biệt giữa các loại API yêu cầu đăng nhập với những API không buộc phải đăng nhập và cách thực hiện các request bằng cách đính kèm chứng thực (token). Người hướng dẫn còn giải thích các cơ chế xác thực khác nhau và cách hoạt động của chúng, đồng thời cung cấp thông tin chi tiết cho từng bước trong quy trình xác thực.
+Điểm nổi bật
+
+Thời gian (giây)	Mô tả
+3	Giới thiệu màn hình chia sẻ và nội dung bài học ngày hôm nay.
+10	Bắt đầu với phần học về API cần xác thực và viết test case cho chúng.
+81	Giải thích về khái niệm authorization và tầm quan trọng của nó.
+178	Hướng dẫn về quy trình xác thực, từ gửi request đến nhận token.
+292	Mô tả chi tiết về cơ chế token và cách sử dụng trong API.
+681	Thảo luận về việc kiểm tra quyền truy cập khi không có token.
+864	Giải thích về session và thời gian sống của một token.
+1007	Những trường hợp làm cho token trở nên vô hiệu.
+1072	Trình bày cú pháp cụ thể để sử dụng token trong API requests.
+1177	Phân biệt giữa authentication và authorization để tránh nhầm lẫn.
+
+Hy vọng những thông tin này hữu ích cho bạn trong việc theo dõi video!
+GPT-4o Mini
+coin image
+7
+Nâng cấp
+
+
+
+Hãy hỏi tôi bất cứ điều gì...
+
+
+
+Được cung cấp bởi AITOPIA 
+Trò Chuyện
+Hỏi
+Tìm Kiếm
+Viết
+Hình Ảnh
+ChatPDF
+Tầm Nhìn
+Trang đầy đủ
+
