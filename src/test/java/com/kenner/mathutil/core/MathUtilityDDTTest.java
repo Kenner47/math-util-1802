@@ -11,7 +11,7 @@ class MathUtilityDDTTest {
     //chuẩn bị cộng data, các cập x! kì vọng bằng mấy
     //chính là mảng 2 chiều
     //hàm này phải là public static đề các hàm @Test mò vào lấy data đề test run
-    public static Object[][] initData() {
+    public static Object[][] initData() { //DTT - DATA DRIVEN TESTING
         return new Object[][] {
                 {0, 1},
                 {1, 1},
