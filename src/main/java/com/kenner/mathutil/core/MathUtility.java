@@ -20,8 +20,9 @@ public class MathUtility {
             throw new IllegalArgumentException("Invalid n, n must be in the range [0...20]");
         }
 
-        if (n < 0 || n > 20)
+        if (n == 0 || n == 1) {
             return 1;
+        }
 
         return n * getFactorial(n - 1); //xong đệ quy
     }
