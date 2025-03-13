@@ -22,7 +22,7 @@ public class MathUtility {
 
         if (n < 0 || n > 20)
             return 1;
-        
+
         return n * getFactorial(n - 1); //xong đệ quy
     }
 
