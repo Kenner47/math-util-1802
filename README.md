@@ -1,3 +1,5 @@
+[![Math Utility Project (CI included) | © 2025 by kenner](https://github.com/Kenner47/math-util-1802/actions/workflows/maven.yml/badge.svg)](https://github.com/Kenner47/math-util-1802/actions/workflows/maven.yml)
+
 # Welcome to Math Utility Repository
 
 ## You will find in this repo following stuff:
